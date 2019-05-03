@@ -1,0 +1,2439 @@
+fileFormatVersion: 2
+guid: 0161c002787e5ca44949192db10f7571
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: _M3_Anim_Data
+    100004: AObject05
+    100006: AObject09
+    100008: AObject15
+    100010: Barracks_Claw_01
+    100012: Barracks_Claw_02
+    100014: Barracks_Claw_04
+    100016: Barracks_Claw_04~DUP~1
+    100018: Barracks_Claw_05
+    100020: Barracks_Claw_06
+    100022: Barracks_Claw_07
+    100024: Barracks_Claw_08
+    100026: Barracks_Claw_09
+    100028: Barracks_Claw_10
+    100030: Barracks_Claw_11
+    100032: Barracks_Claw_12
+    100034: Barracks_Claw_13
+    100036: Barracks_Claw_14
+    100038: Barracks_Claw_15
+    100040: Barracks_Claw_16
+    100042: Barracks_Leg_01
+    100044: Barracks_Leg_02
+    100046: Barracks_Leg_03
+    100048: Barracks_Leg_04
+    100050: Barracks_Pad_01
+    100052: Barracks_Pad_02
+    100054: Barracks_Pad_03
+    100056: Barracks_Pad_04
+    100058: BarrelFire_L
+    100060: BarrelFire_R
+    100062: base
+    100064: base 1
+    100066: base 2
+    100068: BaseDummy
+    100070: BaseDummy 1
+    100072: BaseDummy 2
+    100074: BaseDummy 3
+    100076: BaseDummy 4
+    100078: Bldg_Terran_Barracks_01
+    100080: Bldg_Terran_Barracks_02
+    100082: Bldg_Terran_Barracks_03
+    100084: Bldg_Terran_Barracks_03~DUP~0
+    100086: Bldg_Terran_CommandCenter_Antenne
+    100088: Bldg_Terran_CommandCenter_Antenne 1
+    100090: Bldg_Terran_CommandCenter_Decal
+    100092: Bldg_Terran_CommandCenter_Decal 1
+    100094: Bldg_Terran_CommandCenter_Flap_01
+    100096: Bldg_Terran_CommandCenter_Flap_01 1
+    100098: Bldg_Terran_CommandCenter_Flap_02
+    100100: Bldg_Terran_CommandCenter_Flap_02 1
+    100102: Bldg_Terran_CommandCenter_Flap_03
+    100104: Bldg_Terran_CommandCenter_Flap_03 1
+    100106: Bldg_Terran_CommandCenter_Flap_04
+    100108: Bldg_Terran_CommandCenter_Flap_04 1
+    100110: Bldg_Terran_CommandCenter_Foot_01
+    100112: Bldg_Terran_CommandCenter_Foot_01 1
+    100114: Bldg_Terran_CommandCenter_Foot_02
+    100116: Bldg_Terran_CommandCenter_Foot_02 1
+    100118: Bldg_Terran_CommandCenter_Foot_03
+    100120: Bldg_Terran_CommandCenter_Foot_03 1
+    100122: Bldg_Terran_CommandCenter_Foot_04
+    100124: Bldg_Terran_CommandCenter_Foot_04 1
+    100126: Bldg_Terran_CommandCenter_Joint_01
+    100128: Bldg_Terran_CommandCenter_Joint_01 1
+    100130: Bldg_Terran_CommandCenter_Joint_02
+    100132: Bldg_Terran_CommandCenter_Joint_02 1
+    100134: Bldg_Terran_CommandCenter_Joint_03
+    100136: Bldg_Terran_CommandCenter_Joint_03 1
+    100138: Bldg_Terran_CommandCenter_Joint_04
+    100140: Bldg_Terran_CommandCenter_Joint_04 1
+    100142: Bldg_Terran_CommandCenter_Main
+    100144: Bldg_Terran_CommandCenter_Main 1
+    100146: Bldg_Terran_CommandCenter_Ramp
+    100148: Bldg_Terran_CommandCenter_Ramp 1
+    100150: Bldg_Terran_CommandCenter_Side
+    100152: Bldg_Terran_CommandCenter_Side 1
+    100154: Bldg_Terran_CommandCenter_Turret
+    100156: Bldg_Terran_CommandCenter_Turret 1
+    100158: Bldg_Terran_CommandCenter_Turret_01
+    100160: Bldg_Terran_CommandCenter_Turret_01 1
+    100162: Bldg_Terran_CommandCenter_Turret_02
+    100164: Bldg_Terran_CommandCenter_Turret_02 1
+    100166: Bldg_Terran_Comstat_Antenne
+    100168: Bldg_Terran_Comstat_Antenne 1
+    100170: Bldg_Terran_Comstat_Dish_01
+    100172: Bldg_Terran_Comstat_Dish_01 1
+    100174: Bldg_Terran_Comstat_Dish_02
+    100176: Bldg_Terran_Comstat_Dish_02 1
+    100178: Bldg_Terran_Comstat_Dish_03
+    100180: Bldg_Terran_Comstat_Dish_03 1
+    100182: Bldg_Terran_Comstat_Dish_04
+    100184: Bldg_Terran_Comstat_Dish_04 1
+    100186: Bldg_Terran_Comstat_DishBase
+    100188: Bldg_Terran_Comstat_DishBase 1
+    100190: Bldg_Terran_Comstat_DishFlipper
+    100192: Bldg_Terran_Comstat_DishFlipper 1
+    100194: Bldg_Terran_Comstat_DishMount
+    100196: Bldg_Terran_Comstat_DishMount 1
+    100198: Bldg_Terran_Comstat_Front
+    100200: Bldg_Terran_Comstat_Front 1
+    100202: Bldg_Terran_Comstat_Pipes_01
+    100204: Bldg_Terran_Comstat_Pipes_01 1
+    100206: Bldg_Terran_Planetary_Armor_01
+    100208: Bldg_Terran_Planetary_Armor_01 1
+    100210: Bldg_Terran_Planetary_Armor_02
+    100212: Bldg_Terran_Planetary_Armor_02 1
+    100214: Bldg_Terran_Planetary_Barrels
+    100216: Bldg_Terran_Planetary_Barrels 1
+    100218: Bldg_Terran_Planetary_Base
+    100220: Bldg_Terran_Planetary_Base 1
+    100222: Bldg_Terran_Planetary_Front
+    100224: Bldg_Terran_Planetary_Front 1
+    100226: Bldg_Terran_Planetary_Guns_01
+    100228: Bldg_Terran_Planetary_Guns_01 1
+    100230: Bldg_Terran_Planetary_Pivots
+    100232: Bldg_Terran_Planetary_Pivots 1
+    100234: Body1_Ribs01
+    100236: Body1_Ribs02
+    100238: Body1_Ribsx
+    100240: Body1_Ribsx 1
+    100242: Bone tread_LB
+    100244: Bone tread_LF
+    100246: Bone tread_LS
+    100248: Bone tread_RB
+    100250: Bone tread_RF
+    100252: Bone_Arm
+    100254: Bone_Back_Chasie
+    100256: Bone_Back_Chasie 1
+    100258: Bone_Barrel_L
+    100260: Bone_Barrel_L 1
+    100262: Bone_Barrel_L01
+    100264: Bone_Barrel_Look
+    100266: Bone_Barrel_Look 1
+    100268: Bone_Barrel_R
+    100270: Bone_Barrel_R 1
+    100272: Bone_Barrel_R01
+    100274: Bone_Base
+    100276: Bone_BaseDummy
+    100278: Bone_Box01
+    100280: Bone_Box03
+    100282: Bone_Box04
+    100284: Bone_Box05
+    100286: Bone_Box06
+    100288: Bone_Box07
+    100290: Bone_Claw01
+    100292: Bone_Claw02
+    100294: Bone_Flipper_L
+    100296: Bone_Flipper_TOP
+    100298: Bone_footflap_L
+    100300: Bone_footflap_R
+    100302: Bone_FootL_a
+    100304: Bone_FootL_b
+    100306: Bone_FootL_c
+    100308: Bone_FootL_D
+    100310: Bone_FootR_a
+    100312: Bone_FootR_a 1
+    100314: Bone_FootR_a01
+    100316: Bone_FootR_b
+    100318: Bone_FootR_b 1
+    100320: Bone_FootR_b01
+    100322: Bone_FootR_c
+    100324: Bone_FootR_D
+    100326: Bone_Front_Chasie
+    100328: Bone_Front_Chasie 1
+    100330: Bone_Gears_L_B
+    100332: Bone_Gears_L_F
+    100334: Bone_Gears_R_B
+    100336: Bone_Gears_R_F
+    100338: Bone_Hand
+    100340: Bone_Helper_L
+    100342: Bone_Helper_R
+    100344: Bone_Hose_L
+    100346: Bone_Hose_R
+    100348: Bone_JetsObject01
+    100350: Bone_JetsObject02
+    100352: Bone_JetsObject03
+    100354: Bone_JetsObject04
+    100356: Bone_JetsObject06
+    100358: Bone_JetsObject07
+    100360: Bone_JetsObject08
+    100362: Bone_L_BFinger
+    100364: Bone_L_TFinger
+    100366: Bone_Link_Object
+    100368: Bone_Link_Object 1
+    100370: Bone_Link_Object 2
+    100372: Bone_Main
+    100374: Bone_Main 1
+    100376: Bone_Root
+    100378: Bone_Root 1
+    100380: Bone_Root 2
+    100382: Bone_Root 3
+    100384: Bone_RootA
+    100386: Bone_Rotate
+    100388: Bone_Spine
+    100390: Bone_tread_L_B
+    100392: Bone_tread_L_F
+    100394: Bone_tread_LB
+    100396: Bone_tread_LF
+    100398: Bone_tread_LS
+    100400: Bone_tread_R_B
+    100402: Bone_tread_R_F
+    100404: Bone_tread_RB
+    100406: Bone_tread_RF
+    100408: Bone_tread_RS
+    100410: Bone_treadcap_L_B
+    100412: Bone_treadcap_L_F
+    100414: Bone_treadcap_R_B
+    100416: Bone_treadcap_R_F
+    100418: Bone_Turret
+    100420: Bone_Turret_Base
+    100422: Bone_Turret_Base 1
+    100424: Bone_TurretB
+    100426: Bone_TurretBack
+    100428: Bone_TurretBack 1
+    100430: Bone_TurretC
+    100432: Bone_TurretCAP
+    100434: Bone_TurretD
+    100436: Bone_TurretScale
+    100438: Bone_TurretSide_L
+    100440: Bone_TurretSide_R
+    100442: Bone_Wing_L
+    100444: Bone_Wing_L 1
+    100446: Bone_Wing_R
+    100448: Bone_Wing_R 1
+    100450: BoneArmL
+    100452: BoneArmL 1
+    100454: BoneArmR
+    100456: BoneArmR 1
+    100458: BoneCalfL
+    100460: BoneCalfL 1
+    100462: BoneCalfR
+    100464: BoneCalfR 1
+    100466: BoneDrill
+    100468: BoneFootL
+    100470: BoneFootL 1
+    100472: BoneFootR
+    100474: BoneFootR 1
+    100476: BoneForeArmL
+    100478: BoneForeArmL 1
+    100480: BoneForeArmR
+    100482: BoneForeArmR 1
+    100484: BoneHandL
+    100486: BoneHandR
+    100488: BoneHead
+    100490: BoneHipL
+    100492: BoneHipR
+    100494: BoneLegL
+    100496: BoneLegL 1
+    100498: BoneLegR
+    100500: BoneLegR 1
+    100502: BoneShoulderL
+    100504: BoneShoulderR
+    100506: BoneSpine01
+    100508: BoneSpine02
+    100510: BoneWaist
+    100512: Bottom_Flare
+    100514: Bottom_Flare 1
+    100516: Bound Sphere001
+    100518: Bound Sphere002
+    100520: Bound Sphere003
+    100522: Bound Sphere004
+    100524: Bound Sphere005
+    100526: Bound Sphere006
+    100528: Bound Sphere007
+    100530: Bound Sphere008
+    100532: Bound Sphere009
+    100534: Bound Sphere010
+    100536: Bound Sphere011
+    100538: Bound Sphere012
+    100540: Bound Sphere013
+    100542: Box01
+    100544: Box01 1
+    100546: Box01 2
+    100548: Box01 3
+    100550: Box02
+    100552: Box02 1
+    100554: Box02 2
+    100556: Box03
+    100558: Box03 1
+    100560: Box03 2
+    100562: Box04
+    100564: Box05
+    100566: Box155
+    100568: Chest
+    100570: //RootNode
+    100572: CommandCenter_0
+    100574: CommandCenter_1
+    100576: CommandCenter_2
+    100578: CommandCenter_3
+    100580: CommandCenter_4
+    100582: CommandCenter_5
+    100584: CommandCenter_6
+    100586: CommandCenter_7
+    100588: Cylinder01
+    100590: Cylinder05
+    100592: Cylinder09
+    100594: Cylinder12
+    100596: Cylinder15
+    100598: deadmarinemesh
+    100600: deadmarinemesh01
+    100602: Disp1
+    100604: Dummy Vis tracks
+    100606: Dummy Vis Tracks 1
+    100608: Dummy Vis tracks 1
+    100610: Dummy Vis Tracks 2
+    100612: Dummy Vis Tracks 3
+    100614: Dummy01
+    100616: Dummy01 1
+    100618: Dummy01 2
+    100620: Dummy01 3
+    100622: Dummy01deathvis
+    100624: Evt_Simulate
+    100626: Evt_Simulate 1
+    100628: Evt_Simulate 2
+    100630: Group01
+    100632: Group01 1
+    100634: Hazard light
+    100636: Hazard light 1
+    100638: Hazard light01
+    100640: Hazard light01 1
+    100642: HitTestFuzzy
+    100644: HitTestFuzzy 1
+    100646: HitTestFuzzy 2
+    100648: HitTestFuzzy 3
+    100650: HitTestFuzzy 4
+    100652: HitTestFuzzy 5
+    100654: HitTestFuzzy 6
+    100656: HitTestFuzzy 7
+    100658: HitTestFuzzy 8
+    100660: HitTestFuzzy 9
+    100662: HitTestFuzzy01
+    100664: HitTestFuzzy01 1
+    100666: HitTestFuzzy01 10
+    100668: HitTestFuzzy01 11
+    100670: HitTestFuzzy01 2
+    100672: HitTestFuzzy01 3
+    100674: HitTestFuzzy01 4
+    100676: HitTestFuzzy01 5
+    100678: HitTestFuzzy01 6
+    100680: HitTestFuzzy01 7
+    100682: HitTestFuzzy01 8
+    100684: HitTestFuzzy01 9
+    100686: HitTestFuzzy02
+    100688: HitTestFuzzy02 1
+    100690: HitTestFuzzy02 10
+    100692: HitTestFuzzy02 11
+    100694: HitTestFuzzy02 2
+    100696: HitTestFuzzy02 3
+    100698: HitTestFuzzy02 4
+    100700: HitTestFuzzy02 5
+    100702: HitTestFuzzy02 6
+    100704: HitTestFuzzy02 7
+    100706: HitTestFuzzy02 8
+    100708: HitTestFuzzy02 9
+    100710: HitTestFuzzy03
+    100712: HitTestFuzzy03 1
+    100714: HitTestFuzzy03 10
+    100716: HitTestFuzzy03 11
+    100718: HitTestFuzzy03 2
+    100720: HitTestFuzzy03 3
+    100722: HitTestFuzzy03 4
+    100724: HitTestFuzzy03 5
+    100726: HitTestFuzzy03 6
+    100728: HitTestFuzzy03 7
+    100730: HitTestFuzzy03 8
+    100732: HitTestFuzzy03 9
+    100734: HitTestFuzzy04
+    100736: HitTestFuzzy04 1
+    100738: HitTestFuzzy04 2
+    100740: HitTestFuzzy04 3
+    100742: HitTestFuzzy04 4
+    100744: HitTestFuzzy04 5
+    100746: HitTestFuzzy04 6
+    100748: HitTestFuzzy04 7
+    100750: HitTestFuzzy04 8
+    100752: HitTestFuzzy04 9
+    100754: HitTestFuzzy05
+    100756: HitTestFuzzy05 1
+    100758: HitTestFuzzy05 2
+    100760: HitTestFuzzy05 3
+    100762: HitTestFuzzy05 4
+    100764: HitTestFuzzy05 5
+    100766: HitTestFuzzy05 6
+    100768: HitTestFuzzy05 7
+    100770: HitTestFuzzy06
+    100772: HitTestFuzzy06 1
+    100774: HitTestFuzzy06 2
+    100776: HitTestFuzzy06 3
+    100778: HitTestFuzzy06 4
+    100780: HitTestFuzzy06 5
+    100782: HitTestFuzzy07
+    100784: HitTestFuzzy07 1
+    100786: HitTestFuzzy07 2
+    100788: HitTestFuzzy07 3
+    100790: HitTestFuzzy07 4
+    100792: HitTestFuzzy07 5
+    100794: HitTestFuzzy08
+    100796: HitTestFuzzy08 1
+    100798: HitTestFuzzy08 2
+    100800: HitTestFuzzy08 3
+    100802: HitTestFuzzy09
+    100804: HitTestFuzzy09 1
+    100806: HitTestFuzzy09 2
+    100808: HitTestFuzzy09 3
+    100810: HitTestFuzzy10
+    100812: HitTestFuzzy10 1
+    100814: HitTestFuzzy10 2
+    100816: HitTestFuzzy10 3
+    100818: HitTestTight
+    100820: HitTestTight 1
+    100822: HitTestTight 10
+    100824: HitTestTight 11
+    100826: HitTestTight 12
+    100828: HitTestTight 13
+    100830: HitTestTight 2
+    100832: HitTestTight 3
+    100834: HitTestTight 4
+    100836: HitTestTight 5
+    100838: HitTestTight 6
+    100840: HitTestTight 7
+    100842: HitTestTight 8
+    100844: HitTestTight 9
+    100846: Instance_01
+    100848: Instance_01 1
+    100850: INSTANCE_Cons_Side
+    100852: INSTANCE_Cons_Side 1
+    100854: Mesh01
+    100856: Mesh01 1
+    100858: Mesh02
+    100860: Mesh02 1
+    100862: Mesh02 2
+    100864: Mesh02x
+    100866: Mesh02x01
+    100868: Mesh02x02
+    100870: Mesh02x03
+    100872: Mesh03
+    100874: Mesh03 1
+    100876: Mesh04
+    100878: Mesh05
+    100880: Mesh06
+    100882: Mesh07
+    100884: Mesh08
+    100886: Mesh08 1
+    100888: Mesh09
+    100890: Mesh09 1
+    100892: Mesh10
+    100894: Mesh10 1
+    100896: Mesh11
+    100898: Mesh11 1
+    100900: Mesh12
+    100902: Mesh12 1
+    100904: Mesh13
+    100906: Mesh13deadarm
+    100908: Mesh14
+    100910: Mesh15
+    100912: Mesh26
+    100914: Mesh59
+    100916: Object
+    100918: Object 1
+    100920: Object 2
+    100922: Object01
+    100924: Object01 1
+    100926: Object01 2
+    100928: Object02
+    100930: Object02 1
+    100932: Object02 2
+    100934: Object02 3
+    100936: Object02 4
+    100938: Object03
+    100940: Object03 1
+    100942: Object03 2
+    100944: Object03 3
+    100946: Object04
+    100948: Object04 1
+    100950: Object04 2
+    100952: Object05
+    100954: Object05 1
+    100956: Object05 2
+    100958: Object05 3
+    100960: Object05 4
+    100962: Object06
+    100964: Object06 1
+    100966: Object06 2
+    100968: Object06 3
+    100970: Object07
+    100972: Object07 1
+    100974: Object07 2
+    100976: Object08
+    100978: Object08 1
+    100980: Object08 2
+    100982: Object09
+    100984: Object09 1
+    100986: Object09 2
+    100988: Object09 3
+    100990: Object09smoke02
+    100992: Object10
+    100994: Object10 1
+    100996: Object10 2
+    100998: Object10 3
+    101000: Object11
+    101002: Object11 1
+    101004: Object11 2
+    101006: Object12
+    101008: Object12 1
+    101010: Object12 2
+    101012: Object13
+    101014: Object13 1
+    101016: Object13 2
+    101018: Object14
+    101020: Object14 1
+    101022: Object140
+    101024: Object140 1
+    101026: Object141
+    101028: Object141 1
+    101030: Object141 2
+    101032: Object142
+    101034: Object142 1
+    101036: Object15
+    101038: Object15 1
+    101040: Object15 2
+    101042: Object157
+    101044: Object157 1
+    101046: Object159
+    101048: Object159 1
+    101050: Object16
+    101052: Object16 1
+    101054: Object16 2
+    101056: Object160
+    101058: Object160 1
+    101060: Object163
+    101062: Object163 1
+    101064: Object17
+    101066: Object17 1
+    101068: Object17 2
+    101070: Object18
+    101072: Object19
+    101074: Object20
+    101076: Object21
+    101078: Object22
+    101080: Object23
+    101082: Object23 1
+    101084: Object23 2
+    101086: Object24
+    101088: Object24 1
+    101090: Object24 2
+    101092: Object25
+    101094: Object28
+    101096: Object28 1
+    101098: Object31
+    101100: Object31 1
+    101102: Object34
+    101104: Object34 1
+    101106: Object35
+    101108: Object35 1
+    101110: Object36
+    101112: Object36 1
+    101114: Plane01
+    101116: Plane02
+    101118: redlight
+    101120: Ref_Center
+    101122: Ref_Center 1
+    101124: Ref_Center 10
+    101126: Ref_Center 11
+    101128: Ref_Center 12
+    101130: Ref_Center 13
+    101132: Ref_Center 14
+    101134: Ref_Center 15
+    101136: Ref_Center 16
+    101138: Ref_Center 17
+    101140: Ref_Center 18
+    101142: Ref_Center 19
+    101144: Ref_Center 2
+    101146: Ref_Center 20
+    101148: Ref_Center 21
+    101150: Ref_Center 3
+    101152: Ref_Center 4
+    101154: Ref_Center 5
+    101156: Ref_Center 6
+    101158: Ref_Center 7
+    101160: Ref_Center 8
+    101162: Ref_Center 9
+    101164: Ref_Damage
+    101166: Ref_Damage 01
+    101168: Ref_Damage 01 1
+    101170: Ref_Damage 01 2
+    101172: Ref_Damage 01 3
+    101174: Ref_Damage 01 4
+    101176: Ref_Damage 01 5
+    101178: Ref_Damage 02
+    101180: Ref_Damage 02 1
+    101182: Ref_Damage 02 2
+    101184: Ref_Damage 02 3
+    101186: Ref_Damage 02 4
+    101188: Ref_Damage 02 5
+    101190: Ref_Damage 03
+    101192: Ref_Damage 03 1
+    101194: Ref_Damage 03 2
+    101196: Ref_Damage 03 3
+    101198: Ref_Damage 03 4
+    101200: Ref_Damage 03 5
+    101202: Ref_Damage 04
+    101204: Ref_Damage 04 1
+    101206: Ref_Damage 04 2
+    101208: Ref_Damage 04 3
+    101210: Ref_Damage 04 4
+    101212: Ref_Damage 04 5
+    101214: Ref_Damage 05
+    101216: Ref_Damage 05 1
+    101218: Ref_Damage 05 2
+    101220: Ref_Damage 05 3
+    101222: Ref_Damage 05 4
+    101224: Ref_Damage 05 5
+    101226: Ref_Damage 06
+    101228: Ref_Damage 06 1
+    101230: Ref_Damage 06 2
+    101232: Ref_Damage 06 3
+    101234: Ref_Damage 06 4
+    101236: Ref_Damage 06 5
+    101238: Ref_Damage 07
+    101240: Ref_Damage 07 1
+    101242: Ref_Damage 07 2
+    101244: Ref_Damage 07 3
+    101246: Ref_Damage 07 4
+    101248: Ref_Damage 07 5
+    101250: Ref_Damage 08
+    101252: Ref_Damage 08 1
+    101254: Ref_Damage 08 2
+    101256: Ref_Damage 08 3
+    101258: Ref_Damage 08 4
+    101260: Ref_Damage 08 5
+    101262: Ref_Damage 09
+    101264: Ref_Damage 09 1
+    101266: Ref_Damage 09 2
+    101268: Ref_Damage 09 3
+    101270: Ref_Damage 09 4
+    101272: Ref_Damage 09 5
+    101274: Ref_Damage 1
+    101276: Ref_Damage 10
+    101278: Ref_Damage 10 1
+    101280: Ref_Damage 10 2
+    101282: Ref_Damage 10 3
+    101284: Ref_Damage 10 4
+    101286: Ref_Damage 10 5
+    101288: Ref_Damage 2
+    101290: Ref_Damage 3
+    101292: Ref_Damage 4
+    101294: Ref_Damage 5
+    101296: Ref_HardPoint
+    101298: Ref_Hardpoint
+    101300: Ref_HardPoint 1
+    101302: Ref_Hardpoint 1
+    101304: Ref_HardPoint 2
+    101306: Ref_Hardpoint 2
+    101308: Ref_HardPoint 3
+    101310: Ref_Hardpoint 3
+    101312: Ref_HardPoint 4
+    101314: Ref_HardPoint 5
+    101316: Ref_Head
+    101318: Ref_Head 1
+    101320: Ref_Head 2
+    101322: Ref_Head 3
+    101324: Ref_Head 4
+    101326: Ref_Head 5
+    101328: Ref_Head 6
+    101330: Ref_Head 7
+    101332: Ref_Origin
+    101334: Ref_Origin 1
+    101336: Ref_Origin 10
+    101338: Ref_Origin 11
+    101340: Ref_Origin 12
+    101342: Ref_Origin 13
+    101344: Ref_Origin 14
+    101346: Ref_Origin 15
+    101348: Ref_Origin 16
+    101350: Ref_Origin 17
+    101352: Ref_Origin 18
+    101354: Ref_Origin 19
+    101356: Ref_Origin 2
+    101358: Ref_Origin 20
+    101360: Ref_Origin 21
+    101362: Ref_Origin 3
+    101364: Ref_Origin 4
+    101366: Ref_Origin 5
+    101368: Ref_Origin 6
+    101370: Ref_Origin 7
+    101372: Ref_Origin 8
+    101374: Ref_Origin 9
+    101376: Ref_Overhead
+    101378: Ref_Overhead 1
+    101380: Ref_Overhead 10
+    101382: Ref_Overhead 11
+    101384: Ref_Overhead 12
+    101386: Ref_Overhead 13
+    101388: Ref_Overhead 14
+    101390: Ref_Overhead 15
+    101392: Ref_Overhead 16
+    101394: Ref_Overhead 17
+    101396: Ref_Overhead 18
+    101398: Ref_Overhead 19
+    101400: Ref_Overhead 2
+    101402: Ref_Overhead 20
+    101404: Ref_Overhead 21
+    101406: Ref_Overhead 3
+    101408: Ref_Overhead 4
+    101410: Ref_Overhead 5
+    101412: Ref_Overhead 6
+    101414: Ref_Overhead 7
+    101416: Ref_Overhead 8
+    101418: Ref_Overhead 9
+    101420: Ref_Target
+    101422: Ref_Target 1
+    101424: Ref_Target 2
+    101426: Ref_Target 3
+    101428: Ref_TurretZ
+    101430: Ref_TurretZ 1
+    101432: Ref_TurretZ 2
+    101434: Ref_TurretZ 3
+    101436: Ref_TurretZ 4
+    101438: Ref_TurretZ 5
+    101440: Ref_TurretZ 6
+    101442: Ref_TurretZ 7
+    101444: Ref_TurretZ 8
+    101446: Ref_TurretZ 9
+    101448: Ref_Weapon
+    101450: Ref_Weapon 01
+    101452: Ref_Weapon 01 1
+    101454: Ref_Weapon 01 2
+    101456: Ref_Weapon 01 3
+    101458: Ref_Weapon 01 4
+    101460: Ref_Weapon 01 5
+    101462: Ref_Weapon 01 6
+    101464: Ref_Weapon 01 7
+    101466: Ref_Weapon 01 8
+    101468: Ref_Weapon 01 9
+    101470: Ref_Weapon 02
+    101472: Ref_Weapon 02 1
+    101474: Ref_Weapon 02 2
+    101476: Ref_Weapon 02 3
+    101478: Ref_Weapon 02 4
+    101480: Ref_Weapon 02 5
+    101482: Ref_Weapon 03
+    101484: Ref_Weapon 03 1
+    101486: Ref_Weapon 04
+    101488: Ref_Weapon 04 1
+    101490: Ref_Weapon 09
+    101492: Ref_Weapon 09 1
+    101494: Ref_Weapon 1
+    101496: Ref_Weapon 10
+    101498: Ref_Weapon 10 1
+    101500: Ref_Weapon 11
+    101502: Ref_Weapon 11 1
+    101504: Ref_Weapon 12
+    101506: Ref_Weapon 12 1
+    101508: Ref_Weapon 13
+    101510: Ref_Weapon 13 1
+    101512: Ref_Weapon 14
+    101514: Ref_Weapon 14 1
+    101516: Ref_Weapon 15
+    101518: Ref_Weapon 15 1
+    101520: Ref_Weapon 2
+    101522: Ref_Weapon 20
+    101524: Ref_Weapon 20 1
+    101526: Ref_Weapon 21
+    101528: Ref_Weapon 21 1
+    101530: Ref_Weapon 22
+    101532: Ref_Weapon 22 1
+    101534: Ref_Weapon 23
+    101536: Ref_Weapon 23 1
+    101538: Ref_Weapon 24
+    101540: Ref_Weapon 24 1
+    101542: Ref_Weapon 25
+    101544: Ref_Weapon 25 1
+    101546: Ref_Weapon 3
+    101548: Ref_Weapon 4
+    101550: Ref_Weapon 5
+    101552: Ref_Weapon Left
+    101554: Ref_Weapon Left 1
+    101556: Ref_Weapon Main
+    101558: Ref_Weapon Main 1
+    101560: Ref_Weapon Right
+    101562: Ref_Weapon Right 1
+    101564: Root
+    101566: SC2SplRbn01.EndPointx
+    101568: SC2SplRbn01x
+    101570: SC2SplRbn02x
+    101572: Shield
+    101574: Shield01
+    101576: Shield02
+    101578: small fire bursts01
+    101580: Sphere01
+    101582: Sphere01distortion02
+    101584: Sphere01distortion02 1
+    101586: Sphere01distortion02 2
+    101588: Sphere02
+    101590: Sphere03
+    101592: Sphere04
+    101594: Star2 projector01blacksmear
+    101596: Star2 projector01blacksmear 1
+    101598: Star2 projector01blacksmear 2
+    101600: Star2_Light_Liftoff
+    101602: Star2_Light_Liftoff 1
+    101604: Star2_Part_VentSteam
+    101606: Star2_Part_VentSteam 1
+    101608: Star2_Part_Work
+    101610: Star2_Part_Work 1
+    101612: Star2Omni01
+    101614: Star2Omni01 1
+    101616: Star2Omni01 2
+    101618: Star2Omni01 3
+    101620: Star2Omni01 4
+    101622: Star2Omni01 5
+    101624: Star2Omni02
+    101626: Star2Omni02 1
+    101628: Star2Omni02 2
+    101630: Star2Omni02 3
+    101632: Star2Omni02 4
+    101634: Star2Omni02~DUP~0
+    101636: Star2Omni02~DUP~0 1
+    101638: Star2Omni02~DUP~0 2
+    101640: Star2Omni03
+    101642: Star2Omni04
+    101644: Star2Omni04 1
+    101646: Star2Omni04 2
+    101648: Star2Omni04 3
+    101650: Star2Omni05
+    101652: Star2Omni05 1
+    101654: Star2Omni05 2
+    101656: Star2Omni05 3
+    101658: Star2Omni05 4
+    101660: Star2Omni06
+    101662: Star2Omni06 1
+    101664: Star2Omni06 2
+    101666: Star2Omni06 3
+    101668: Star2Omni069
+    101670: Star2Omni069 1
+    101672: Star2Omni069 2
+    101674: Star2Omni07
+    101676: Star2Omni07 1
+    101678: Star2Omni07 2
+    101680: Star2Omni07 3
+    101682: Star2Omni70
+    101684: Star2Omni70 1
+    101686: Star2Omni70 2
+    101688: Star2Part01
+    101690: Star2Part01 1
+    101692: Star2Part01 2
+    101694: Star2Part01 3
+    101696: Star2Part01blood02tails
+    101698: Star2Part01Bloodpool05
+    101700: Star2Part01debris
+    101702: Star2Part01debris 1
+    101704: Star2Part01debris 2
+    101706: Star2Part01debris 3
+    101708: Star2Part01debris01
+    101710: Star2Part01debris02
+    101712: Star2Part01exhaust
+    101714: Star2Part01exhaust 1
+    101716: Star2Part01exhaust 2
+    101718: Star2Part01exhaust 3
+    101720: Star2Part01exhaust 4
+    101722: Star2Part01exhaust01
+    101724: Star2Part01exhaust01 1
+    101726: Star2Part01exhaust01 2
+    101728: Star2Part01exhaust01 3
+    101730: Star2Part01exhaust01 4
+    101732: Star2Part01exhaust02
+    101734: Star2Part01exhaust02 1
+    101736: Star2Part01exhaust02 2
+    101738: Star2Part01exhaust02 3
+    101740: Star2Part01exhaust02 4
+    101742: Star2Part01exhaust03
+    101744: Star2Part01exhaust03 1
+    101746: Star2Part01exhaust03 2
+    101748: Star2Part01exhaust03 3
+    101750: Star2Part01exhaust03 4
+    101752: Star2Part01exhaust04
+    101754: Star2Part01exhaust04 1
+    101756: Star2Part01exhaust04 2
+    101758: Star2Part01exhaust04 3
+    101760: Star2Part01exhaust05up
+    101762: Star2Part01exhaust05up 1
+    101764: Star2Part01exhaust05up 2
+    101766: Star2Part01fire04
+    101768: Star2Part01firemain
+    101770: Star2Part01firemain 1
+    101772: Star2Part01firemain 2
+    101774: Star2Part01firemain 3
+    101776: Star2Part01firemain01
+    101778: Star2Part01flash
+    101780: Star2Part01flash01
+    101782: Star2Part01flash01 1
+    101784: Star2Part01glow01
+    101786: Star2Part01jetfire01
+    101788: Star2Part01jetfire01 1
+    101790: Star2Part01jetfire01 2
+    101792: Star2Part01jetfire01 3
+    101794: Star2Part01jetfire02
+    101796: Star2Part01jetfire02 1
+    101798: Star2Part01jetfire02 2
+    101800: Star2Part01jetfire02 3
+    101802: Star2Part01jetfire03
+    101804: Star2Part01jetfire03 1
+    101806: Star2Part01jetfire03 2
+    101808: Star2Part01jetfire04
+    101810: Star2Part01jetfire04 1
+    101812: Star2Part01jetfire04 2
+    101814: Star2Part01jetfire05
+    101816: Star2Part01jetfire05 1
+    101818: Star2Part01jetfire05 2
+    101820: Star2Part01jetfire06
+    101822: Star2Part01jetfire06 1
+    101824: Star2Part01jetfire06 2
+    101826: Star2Part01jetfire07
+    101828: Star2Part01jetfire07 1
+    101830: Star2Part01jetfire07 2
+    101832: Star2Part01jetwalk
+    101834: Star2Part01jetwalk01
+    101836: Star2Part01shock01
+    101838: Star2Part01shock01fast
+    101840: Star2Part01shock01fast 1
+    101842: Star2Part01shock02big
+    101844: Star2Part01shock02big01up
+    101846: Star2Part01sparksbounce01
+    101848: Star2Part01sparksbounce01 1
+    101850: Star2Part01sparksbounce01 2
+    101852: Star2Part01sparksparent
+    101854: Star2Part01trailparernt
+    101856: Star2Part02
+    101858: Star2Part02 1
+    101860: Star2Part02 2
+    101862: Star2Part02 3
+    101864: Star2Part022
+    101866: Star2Part03
+    101868: Star2Part03 1
+    101870: Star2Part03 2
+    101872: Star2Part03 3
+    101874: Star2Part03jet05
+    101876: Star2Part03jet06smoke
+    101878: Star2Part03jet06smoke 1
+    101880: Star2Part03jet06smoke 2
+    101882: Star2Part03jet06smoke 3
+    101884: Star2Part03jet06smoke01
+    101886: Star2Part03jet06smoke01 1
+    101888: Star2Part03jet06smoke01 2
+    101890: Star2Part03jet06smoke01 3
+    101892: Star2Part03jet06smoke02
+    101894: Star2Part03jet06smoke02 1
+    101896: Star2Part03jet06smoke02 2
+    101898: Star2Part03jet06sparks
+    101900: Star2Part03jet06sparks 1
+    101902: Star2Part03jet06sparks 2
+    101904: Star2Part03jet06sparks 3
+    101906: Star2Part03jet06sparks01
+    101908: Star2Part03jet06sparks01 1
+    101910: Star2Part03jet06sparks01 2
+    101912: Star2Part03jet06sparks01 3
+    101914: Star2Part03jet06sparks02
+    101916: Star2Part03jet06sparks02 1
+    101918: Star2Part03jet06sparks02 2
+    101920: Star2Part03jet08
+    101922: Star2Part03jet09
+    101924: Star2Part03jet10
+    101926: Star2Part03jet11
+    101928: Star2Part03jet12
+    101930: Star2Part03liftoffdebris
+    101932: Star2Part03liftoffdebris 1
+    101934: Star2Part03liftoffdebris 2
+    101936: Star2Part03liftoffdebris 3
+    101938: Star2Part03tails01
+    101940: Star2Part04
+    101942: Star2Part04jetglow01
+    101944: Star2Part04jetglow01 1
+    101946: Star2Part04jetglow01 2
+    101948: Star2Part04jetglow01 3
+    101950: Star2Part04jetglow01 4
+    101952: Star2Part04jetglow02
+    101954: Star2Part04jetglow02 1
+    101956: Star2Part04jetglow02 2
+    101958: Star2Part04jetglow02 3
+    101960: Star2Part04jetglow02 4
+    101962: Star2Part04jetglow03
+    101964: Star2Part04jetglow03 1
+    101966: Star2Part04jetglow03 2
+    101968: Star2Part05
+    101970: Star2Part05engineglowstand
+    101972: Star2Part05engineglowstand01
+    101974: Star2Part05engineglowstand02
+    101976: Star2Part05engineglowstand03
+    101978: Star2Part05engineglowwalk
+    101980: Star2Part05engineglowwalk01
+    101982: Star2Part05engineglowwalk02
+    101984: Star2Part05engineglowwalk03
+    101986: Star2Part05lioghtflash01
+    101988: Star2Part05lioghtflash01 1
+    101990: Star2Part05lioghtflash01 2
+    101992: Star2Part08
+    101994: Star2Part0jetfire01
+    101996: Star2Part0jetfire02
+    101998: Star2Part10Shells
+    102000: Star2Part10Shells 1
+    102002: Star2Part10Shells 2
+    102004: Star2Part10Shells01
+    102006: Star2Part10Shells01 1
+    102008: Star2Part10Shells01 2
+    102010: Star2Part11
+    102012: Star2Part21sunrays
+    102014: Star2Part29gooey
+    102016: Star2Part29gooey02
+    102018: Star2Part29gooey03anim
+    102020: Star2Part29headshot
+    102022: Star2Part29mistblood
+    102024: Star2Part31big smoke
+    102026: Star2Part31big smoke 1
+    102028: Star2Part31big smoke 2
+    102030: Star2Part31big smoke 3
+    102032: Star2Part_BlackSmoke
+    102034: Star2Part_BlackSmoke 1
+    102036: Star2PartFirenewsmokering
+    102038: Star2PartSmoke
+    102040: Star2PartSmoke 1
+    102042: Star2PartSmoke 2
+    102044: Star2Partsmokering
+    102046: Star2Partsmokering 1
+    102048: Star2Partsmokering 2
+    102050: Star2PartSmokeTendril1
+    102052: Star2PartSmokeTendril1 1
+    102054: Star2PartSmokeTendril1x
+    102056: Star2PartSmokeTendril1x01
+    102058: Star2Partsmoketrailz
+    102060: Star2PartSpinn
+    102062: Star2PartSpinn 1
+    102064: Star2PartSpinn 2
+    102066: Star2PartSpinn01
+    102068: Star2PartSpinn01 1
+    102070: Star2PartSpinn01 2
+    102072: Star2Ribbon01
+    102074: Star2Ribbon01heatwave02
+    102076: Star2Ribbon01heatwave02 1
+    102078: Star2Ribbon01heatwave02 2
+    102080: Star2Ribbon01heatwave03
+    102082: Star2Ribbon01heatwave03 1
+    102084: Star2Ribbon01heatwave03 2
+    102086: Star2Ribbon02
+    102088: Torus01
+    102090: Torus01 1
+    102092: Torus01 2
+    102094: Torus01 3
+    102096: TT_forCLAW
+    102098: TT_Turret
+    102100: TurretBase
+    102102: Unit_Terran_Battlecruiser_
+    102104: Unit_Terran_Battlecruiser_ 1
+    102106: Unit_Terran_Battlecruiser_02
+    102108: Unit_Terran_Battlecruiser_03
+    102110: Unit_Terran_Battlecruiser_04
+    102112: Unit_Terran_Battlecruiser_04 1
+    102114: Unit_Terran_Battlecruiser_05
+    102116: Unit_Terran_Battlecruiser_07
+    102118: Unit_Terran_Battlecruiser_07 1
+    102120: Unit_Terran_Battlecruiser_Main
+    102122: Unit_Terran_Battlecruiser_Main 1
+    102124: Unit_Terran_Battlecruiser_Yamato
+    102126: Unit_Terran_Battlecruiser_Yamato 1
+    102128: Unit_Terran_Construc_Panel_01
+    102130: Unit_Terran_Construc_Panel_01 1
+    102132: Unit_Terran_Construc_Panel_02
+    102134: Unit_Terran_Construc_Panel_02 1
+    102136: Unit_Terran_Construc_Panel_03
+    102138: Unit_Terran_Construc_Panel_03 1
+    102140: Unit_Terran_Construc_Panel_04
+    102142: Unit_Terran_Construc_Panel_04 1
+    102144: Unit_Terran_Construc_Panel_05
+    102146: Unit_Terran_Construc_Panel_05 1
+    102148: Unit_Terran_Construc_Panel_06
+    102150: Unit_Terran_Construc_Panel_06 1
+    102152: Unit_Terran_Dropship_Booster00
+    102154: Unit_Terran_Dropship_Booster01
+    102156: Unit_Terran_Dropshipx
+    102158: Vol_Target
+    102160: Vol_Target 01
+    102162: Vol_Target 01 1
+    102164: Vol_Target 01 10
+    102166: Vol_Target 01 11
+    102168: Vol_Target 01 12
+    102170: Vol_Target 01 13
+    102172: Vol_Target 01 2
+    102174: Vol_Target 01 3
+    102176: Vol_Target 01 4
+    102178: Vol_Target 01 5
+    102180: Vol_Target 01 6
+    102182: Vol_Target 01 7
+    102184: Vol_Target 01 8
+    102186: Vol_Target 01 9
+    102188: Vol_Target 02
+    102190: Vol_Target 02 1
+    102192: Vol_Target 02 10
+    102194: Vol_Target 02 11
+    102196: Vol_Target 02 12
+    102198: Vol_Target 02 13
+    102200: Vol_Target 02 2
+    102202: Vol_Target 02 3
+    102204: Vol_Target 02 4
+    102206: Vol_Target 02 5
+    102208: Vol_Target 02 6
+    102210: Vol_Target 02 7
+    102212: Vol_Target 02 8
+    102214: Vol_Target 02 9
+    102216: Vol_Target 03
+    102218: Vol_Target 03 1
+    102220: Vol_Target 03 10
+    102222: Vol_Target 03 11
+    102224: Vol_Target 03 2
+    102226: Vol_Target 03 3
+    102228: Vol_Target 03 4
+    102230: Vol_Target 03 5
+    102232: Vol_Target 03 6
+    102234: Vol_Target 03 7
+    102236: Vol_Target 03 8
+    102238: Vol_Target 03 9
+    102240: Vol_Target 04
+    102242: Vol_Target 04 1
+    102244: Vol_Target 04 10
+    102246: Vol_Target 04 11
+    102248: Vol_Target 04 2
+    102250: Vol_Target 04 3
+    102252: Vol_Target 04 4
+    102254: Vol_Target 04 5
+    102256: Vol_Target 04 6
+    102258: Vol_Target 04 7
+    102260: Vol_Target 04 8
+    102262: Vol_Target 04 9
+    102264: Vol_Target 05
+    102266: Vol_Target 05 1
+    102268: Vol_Target 05 2
+    102270: Vol_Target 05 3
+    102272: Vol_Target 05 4
+    102274: Vol_Target 05 5
+    102276: Vol_Target 05 6
+    102278: Vol_Target 05 7
+    102280: Vol_Target 05 8
+    102282: Vol_Target 05 9
+    102284: Vol_Target 06
+    102286: Vol_Target 06 1
+    102288: Vol_Target 06 2
+    102290: Vol_Target 06 3
+    102292: Vol_Target 06 4
+    102294: Vol_Target 06 5
+    102296: Vol_Target 06 6
+    102298: Vol_Target 06 7
+    102300: Vol_Target 07
+    102302: Vol_Target 07 1
+    102304: Vol_Target 07 2
+    102306: Vol_Target 07 3
+    102308: Vol_Target 07 4
+    102310: Vol_Target 07 5
+    102312: Vol_Target 08
+    102314: Vol_Target 08 1
+    102316: Vol_Target 08 2
+    102318: Vol_Target 08 3
+    102320: Vol_Target 1
+    102322: Vol_Target 10
+    102324: Vol_Target 10 1
+    102326: Vol_Target 10 1 1
+    102328: Vol_Target 10 2
+    102330: Vol_Target 10 3
+    102332: Vol_Target 11
+    102334: Vol_Target 11 1
+    102336: Vol_Target 11 1 1
+    102338: Vol_Target 11 2
+    102340: Vol_Target 11 3
+    102342: Vol_Target 12
+    102344: Vol_Target 13
+    102346: Vol_Target 2
+    102348: Vol_Target 3
+    102350: Vol_Target 4
+    102352: Vol_Target 5
+    102354: Vol_Target 6
+    102356: Vol_Target 7
+    102358: Vol_Target 8
+    102360: Vol_Target 9
+    400000: ' 1'
+    400002: _M3_Anim_Data
+    400004: AObject05
+    400006: AObject09
+    400008: AObject15
+    400010: Barracks_Claw_01
+    400012: Barracks_Claw_02
+    400014: Barracks_Claw_04
+    400016: Barracks_Claw_04~DUP~1
+    400018: Barracks_Claw_05
+    400020: Barracks_Claw_06
+    400022: Barracks_Claw_07
+    400024: Barracks_Claw_08
+    400026: Barracks_Claw_09
+    400028: Barracks_Claw_10
+    400030: Barracks_Claw_11
+    400032: Barracks_Claw_12
+    400034: Barracks_Claw_13
+    400036: Barracks_Claw_14
+    400038: Barracks_Claw_15
+    400040: Barracks_Claw_16
+    400042: Barracks_Leg_01
+    400044: Barracks_Leg_02
+    400046: Barracks_Leg_03
+    400048: Barracks_Leg_04
+    400050: Barracks_Pad_01
+    400052: Barracks_Pad_02
+    400054: Barracks_Pad_03
+    400056: Barracks_Pad_04
+    400058: BarrelFire_L
+    400060: BarrelFire_R
+    400062: base
+    400064: base 1
+    400066: base 2
+    400068: BaseDummy
+    400070: BaseDummy 1
+    400072: BaseDummy 2
+    400074: BaseDummy 3
+    400076: BaseDummy 4
+    400078: Bldg_Terran_Barracks_01
+    400080: Bldg_Terran_Barracks_02
+    400082: Bldg_Terran_Barracks_03
+    400084: Bldg_Terran_Barracks_03~DUP~0
+    400086: Bldg_Terran_CommandCenter_Antenne
+    400088: Bldg_Terran_CommandCenter_Antenne 1
+    400090: Bldg_Terran_CommandCenter_Decal
+    400092: Bldg_Terran_CommandCenter_Decal 1
+    400094: Bldg_Terran_CommandCenter_Flap_01
+    400096: Bldg_Terran_CommandCenter_Flap_01 1
+    400098: Bldg_Terran_CommandCenter_Flap_02
+    400100: Bldg_Terran_CommandCenter_Flap_02 1
+    400102: Bldg_Terran_CommandCenter_Flap_03
+    400104: Bldg_Terran_CommandCenter_Flap_03 1
+    400106: Bldg_Terran_CommandCenter_Flap_04
+    400108: Bldg_Terran_CommandCenter_Flap_04 1
+    400110: Bldg_Terran_CommandCenter_Foot_01
+    400112: Bldg_Terran_CommandCenter_Foot_01 1
+    400114: Bldg_Terran_CommandCenter_Foot_02
+    400116: Bldg_Terran_CommandCenter_Foot_02 1
+    400118: Bldg_Terran_CommandCenter_Foot_03
+    400120: Bldg_Terran_CommandCenter_Foot_03 1
+    400122: Bldg_Terran_CommandCenter_Foot_04
+    400124: Bldg_Terran_CommandCenter_Foot_04 1
+    400126: Bldg_Terran_CommandCenter_Joint_01
+    400128: Bldg_Terran_CommandCenter_Joint_01 1
+    400130: Bldg_Terran_CommandCenter_Joint_02
+    400132: Bldg_Terran_CommandCenter_Joint_02 1
+    400134: Bldg_Terran_CommandCenter_Joint_03
+    400136: Bldg_Terran_CommandCenter_Joint_03 1
+    400138: Bldg_Terran_CommandCenter_Joint_04
+    400140: Bldg_Terran_CommandCenter_Joint_04 1
+    400142: Bldg_Terran_CommandCenter_Main
+    400144: Bldg_Terran_CommandCenter_Main 1
+    400146: Bldg_Terran_CommandCenter_Ramp
+    400148: Bldg_Terran_CommandCenter_Ramp 1
+    400150: Bldg_Terran_CommandCenter_Side
+    400152: Bldg_Terran_CommandCenter_Side 1
+    400154: Bldg_Terran_CommandCenter_Turret
+    400156: Bldg_Terran_CommandCenter_Turret 1
+    400158: Bldg_Terran_CommandCenter_Turret_01
+    400160: Bldg_Terran_CommandCenter_Turret_01 1
+    400162: Bldg_Terran_CommandCenter_Turret_02
+    400164: Bldg_Terran_CommandCenter_Turret_02 1
+    400166: Bldg_Terran_Comstat_Antenne
+    400168: Bldg_Terran_Comstat_Antenne 1
+    400170: Bldg_Terran_Comstat_Dish_01
+    400172: Bldg_Terran_Comstat_Dish_01 1
+    400174: Bldg_Terran_Comstat_Dish_02
+    400176: Bldg_Terran_Comstat_Dish_02 1
+    400178: Bldg_Terran_Comstat_Dish_03
+    400180: Bldg_Terran_Comstat_Dish_03 1
+    400182: Bldg_Terran_Comstat_Dish_04
+    400184: Bldg_Terran_Comstat_Dish_04 1
+    400186: Bldg_Terran_Comstat_DishBase
+    400188: Bldg_Terran_Comstat_DishBase 1
+    400190: Bldg_Terran_Comstat_DishFlipper
+    400192: Bldg_Terran_Comstat_DishFlipper 1
+    400194: Bldg_Terran_Comstat_DishMount
+    400196: Bldg_Terran_Comstat_DishMount 1
+    400198: Bldg_Terran_Comstat_Front
+    400200: Bldg_Terran_Comstat_Front 1
+    400202: Bldg_Terran_Comstat_Pipes_01
+    400204: Bldg_Terran_Comstat_Pipes_01 1
+    400206: Bldg_Terran_Planetary_Armor_01
+    400208: Bldg_Terran_Planetary_Armor_01 1
+    400210: Bldg_Terran_Planetary_Armor_02
+    400212: Bldg_Terran_Planetary_Armor_02 1
+    400214: Bldg_Terran_Planetary_Barrels
+    400216: Bldg_Terran_Planetary_Barrels 1
+    400218: Bldg_Terran_Planetary_Base
+    400220: Bldg_Terran_Planetary_Base 1
+    400222: Bldg_Terran_Planetary_Front
+    400224: Bldg_Terran_Planetary_Front 1
+    400226: Bldg_Terran_Planetary_Guns_01
+    400228: Bldg_Terran_Planetary_Guns_01 1
+    400230: Bldg_Terran_Planetary_Pivots
+    400232: Bldg_Terran_Planetary_Pivots 1
+    400234: Body1_Ribs01
+    400236: Body1_Ribs02
+    400238: Body1_Ribsx
+    400240: Body1_Ribsx 1
+    400242: Bone tread_LB
+    400244: Bone tread_LF
+    400246: Bone tread_LS
+    400248: Bone tread_RB
+    400250: Bone tread_RF
+    400252: Bone_Arm
+    400254: Bone_Back_Chasie
+    400256: Bone_Back_Chasie 1
+    400258: Bone_Barrel_L
+    400260: Bone_Barrel_L 1
+    400262: Bone_Barrel_L01
+    400264: Bone_Barrel_Look
+    400266: Bone_Barrel_Look 1
+    400268: Bone_Barrel_R
+    400270: Bone_Barrel_R 1
+    400272: Bone_Barrel_R01
+    400274: Bone_Base
+    400276: Bone_BaseDummy
+    400278: Bone_Box01
+    400280: Bone_Box03
+    400282: Bone_Box04
+    400284: Bone_Box05
+    400286: Bone_Box06
+    400288: Bone_Box07
+    400290: Bone_Claw01
+    400292: Bone_Claw02
+    400294: Bone_Flipper_L
+    400296: Bone_Flipper_TOP
+    400298: Bone_footflap_L
+    400300: Bone_footflap_R
+    400302: Bone_FootL_a
+    400304: Bone_FootL_b
+    400306: Bone_FootL_c
+    400308: Bone_FootL_D
+    400310: Bone_FootR_a
+    400312: Bone_FootR_a 1
+    400314: Bone_FootR_a01
+    400316: Bone_FootR_b
+    400318: Bone_FootR_b 1
+    400320: Bone_FootR_b01
+    400322: Bone_FootR_c
+    400324: Bone_FootR_D
+    400326: Bone_Front_Chasie
+    400328: Bone_Front_Chasie 1
+    400330: Bone_Gears_L_B
+    400332: Bone_Gears_L_F
+    400334: Bone_Gears_R_B
+    400336: Bone_Gears_R_F
+    400338: Bone_Hand
+    400340: Bone_Helper_L
+    400342: Bone_Helper_R
+    400344: Bone_Hose_L
+    400346: Bone_Hose_R
+    400348: Bone_JetsObject01
+    400350: Bone_JetsObject02
+    400352: Bone_JetsObject03
+    400354: Bone_JetsObject04
+    400356: Bone_JetsObject06
+    400358: Bone_JetsObject07
+    400360: Bone_JetsObject08
+    400362: Bone_L_BFinger
+    400364: Bone_L_TFinger
+    400366: Bone_Link_Object
+    400368: Bone_Link_Object 1
+    400370: Bone_Link_Object 2
+    400372: Bone_Main
+    400374: Bone_Main 1
+    400376: Bone_Root
+    400378: Bone_Root 1
+    400380: Bone_Root 2
+    400382: Bone_Root 3
+    400384: Bone_RootA
+    400386: Bone_Rotate
+    400388: Bone_Spine
+    400390: Bone_tread_L_B
+    400392: Bone_tread_L_F
+    400394: Bone_tread_LB
+    400396: Bone_tread_LF
+    400398: Bone_tread_LS
+    400400: Bone_tread_R_B
+    400402: Bone_tread_R_F
+    400404: Bone_tread_RB
+    400406: Bone_tread_RF
+    400408: Bone_tread_RS
+    400410: Bone_treadcap_L_B
+    400412: Bone_treadcap_L_F
+    400414: Bone_treadcap_R_B
+    400416: Bone_treadcap_R_F
+    400418: Bone_Turret
+    400420: Bone_Turret_Base
+    400422: Bone_Turret_Base 1
+    400424: Bone_TurretB
+    400426: Bone_TurretBack
+    400428: Bone_TurretBack 1
+    400430: Bone_TurretC
+    400432: Bone_TurretCAP
+    400434: Bone_TurretD
+    400436: Bone_TurretScale
+    400438: Bone_TurretSide_L
+    400440: Bone_TurretSide_R
+    400442: Bone_Wing_L
+    400444: Bone_Wing_L 1
+    400446: Bone_Wing_R
+    400448: Bone_Wing_R 1
+    400450: BoneArmL
+    400452: BoneArmL 1
+    400454: BoneArmR
+    400456: BoneArmR 1
+    400458: BoneCalfL
+    400460: BoneCalfL 1
+    400462: BoneCalfR
+    400464: BoneCalfR 1
+    400466: BoneDrill
+    400468: BoneFootL
+    400470: BoneFootL 1
+    400472: BoneFootR
+    400474: BoneFootR 1
+    400476: BoneForeArmL
+    400478: BoneForeArmL 1
+    400480: BoneForeArmR
+    400482: BoneForeArmR 1
+    400484: BoneHandL
+    400486: BoneHandR
+    400488: BoneHead
+    400490: BoneHipL
+    400492: BoneHipR
+    400494: BoneLegL
+    400496: BoneLegL 1
+    400498: BoneLegR
+    400500: BoneLegR 1
+    400502: BoneShoulderL
+    400504: BoneShoulderR
+    400506: BoneSpine01
+    400508: BoneSpine02
+    400510: BoneWaist
+    400512: Bottom_Flare
+    400514: Bottom_Flare 1
+    400516: Bound Sphere001
+    400518: Bound Sphere002
+    400520: Bound Sphere003
+    400522: Bound Sphere004
+    400524: Bound Sphere005
+    400526: Bound Sphere006
+    400528: Bound Sphere007
+    400530: Bound Sphere008
+    400532: Bound Sphere009
+    400534: Bound Sphere010
+    400536: Bound Sphere011
+    400538: Bound Sphere012
+    400540: Bound Sphere013
+    400542: Box01
+    400544: Box01 1
+    400546: Box01 2
+    400548: Box01 3
+    400550: Box02
+    400552: Box02 1
+    400554: Box02 2
+    400556: Box03
+    400558: Box03 1
+    400560: Box03 2
+    400562: Box04
+    400564: Box05
+    400566: Box155
+    400568: Chest
+    400570: //RootNode
+    400572: CommandCenter_0
+    400574: CommandCenter_1
+    400576: CommandCenter_2
+    400578: CommandCenter_3
+    400580: CommandCenter_4
+    400582: CommandCenter_5
+    400584: CommandCenter_6
+    400586: CommandCenter_7
+    400588: Cylinder01
+    400590: Cylinder05
+    400592: Cylinder09
+    400594: Cylinder12
+    400596: Cylinder15
+    400598: deadmarinemesh
+    400600: deadmarinemesh01
+    400602: Disp1
+    400604: Dummy Vis tracks
+    400606: Dummy Vis Tracks 1
+    400608: Dummy Vis tracks 1
+    400610: Dummy Vis Tracks 2
+    400612: Dummy Vis Tracks 3
+    400614: Dummy01
+    400616: Dummy01 1
+    400618: Dummy01 2
+    400620: Dummy01 3
+    400622: Dummy01deathvis
+    400624: Evt_Simulate
+    400626: Evt_Simulate 1
+    400628: Evt_Simulate 2
+    400630: Group01
+    400632: Group01 1
+    400634: Hazard light
+    400636: Hazard light 1
+    400638: Hazard light01
+    400640: Hazard light01 1
+    400642: HitTestFuzzy
+    400644: HitTestFuzzy 1
+    400646: HitTestFuzzy 2
+    400648: HitTestFuzzy 3
+    400650: HitTestFuzzy 4
+    400652: HitTestFuzzy 5
+    400654: HitTestFuzzy 6
+    400656: HitTestFuzzy 7
+    400658: HitTestFuzzy 8
+    400660: HitTestFuzzy 9
+    400662: HitTestFuzzy01
+    400664: HitTestFuzzy01 1
+    400666: HitTestFuzzy01 10
+    400668: HitTestFuzzy01 11
+    400670: HitTestFuzzy01 2
+    400672: HitTestFuzzy01 3
+    400674: HitTestFuzzy01 4
+    400676: HitTestFuzzy01 5
+    400678: HitTestFuzzy01 6
+    400680: HitTestFuzzy01 7
+    400682: HitTestFuzzy01 8
+    400684: HitTestFuzzy01 9
+    400686: HitTestFuzzy02
+    400688: HitTestFuzzy02 1
+    400690: HitTestFuzzy02 10
+    400692: HitTestFuzzy02 11
+    400694: HitTestFuzzy02 2
+    400696: HitTestFuzzy02 3
+    400698: HitTestFuzzy02 4
+    400700: HitTestFuzzy02 5
+    400702: HitTestFuzzy02 6
+    400704: HitTestFuzzy02 7
+    400706: HitTestFuzzy02 8
+    400708: HitTestFuzzy02 9
+    400710: HitTestFuzzy03
+    400712: HitTestFuzzy03 1
+    400714: HitTestFuzzy03 10
+    400716: HitTestFuzzy03 11
+    400718: HitTestFuzzy03 2
+    400720: HitTestFuzzy03 3
+    400722: HitTestFuzzy03 4
+    400724: HitTestFuzzy03 5
+    400726: HitTestFuzzy03 6
+    400728: HitTestFuzzy03 7
+    400730: HitTestFuzzy03 8
+    400732: HitTestFuzzy03 9
+    400734: HitTestFuzzy04
+    400736: HitTestFuzzy04 1
+    400738: HitTestFuzzy04 2
+    400740: HitTestFuzzy04 3
+    400742: HitTestFuzzy04 4
+    400744: HitTestFuzzy04 5
+    400746: HitTestFuzzy04 6
+    400748: HitTestFuzzy04 7
+    400750: HitTestFuzzy04 8
+    400752: HitTestFuzzy04 9
+    400754: HitTestFuzzy05
+    400756: HitTestFuzzy05 1
+    400758: HitTestFuzzy05 2
+    400760: HitTestFuzzy05 3
+    400762: HitTestFuzzy05 4
+    400764: HitTestFuzzy05 5
+    400766: HitTestFuzzy05 6
+    400768: HitTestFuzzy05 7
+    400770: HitTestFuzzy06
+    400772: HitTestFuzzy06 1
+    400774: HitTestFuzzy06 2
+    400776: HitTestFuzzy06 3
+    400778: HitTestFuzzy06 4
+    400780: HitTestFuzzy06 5
+    400782: HitTestFuzzy07
+    400784: HitTestFuzzy07 1
+    400786: HitTestFuzzy07 2
+    400788: HitTestFuzzy07 3
+    400790: HitTestFuzzy07 4
+    400792: HitTestFuzzy07 5
+    400794: HitTestFuzzy08
+    400796: HitTestFuzzy08 1
+    400798: HitTestFuzzy08 2
+    400800: HitTestFuzzy08 3
+    400802: HitTestFuzzy09
+    400804: HitTestFuzzy09 1
+    400806: HitTestFuzzy09 2
+    400808: HitTestFuzzy09 3
+    400810: HitTestFuzzy10
+    400812: HitTestFuzzy10 1
+    400814: HitTestFuzzy10 2
+    400816: HitTestFuzzy10 3
+    400818: HitTestTight
+    400820: HitTestTight 1
+    400822: HitTestTight 10
+    400824: HitTestTight 11
+    400826: HitTestTight 12
+    400828: HitTestTight 13
+    400830: HitTestTight 2
+    400832: HitTestTight 3
+    400834: HitTestTight 4
+    400836: HitTestTight 5
+    400838: HitTestTight 6
+    400840: HitTestTight 7
+    400842: HitTestTight 8
+    400844: HitTestTight 9
+    400846: Instance_01
+    400848: Instance_01 1
+    400850: INSTANCE_Cons_Side
+    400852: INSTANCE_Cons_Side 1
+    400854: Mesh01
+    400856: Mesh01 1
+    400858: Mesh02
+    400860: Mesh02 1
+    400862: Mesh02 2
+    400864: Mesh02x
+    400866: Mesh02x01
+    400868: Mesh02x02
+    400870: Mesh02x03
+    400872: Mesh03
+    400874: Mesh03 1
+    400876: Mesh04
+    400878: Mesh05
+    400880: Mesh06
+    400882: Mesh07
+    400884: Mesh08
+    400886: Mesh08 1
+    400888: Mesh09
+    400890: Mesh09 1
+    400892: Mesh10
+    400894: Mesh10 1
+    400896: Mesh11
+    400898: Mesh11 1
+    400900: Mesh12
+    400902: Mesh12 1
+    400904: Mesh13
+    400906: Mesh13deadarm
+    400908: Mesh14
+    400910: Mesh15
+    400912: Mesh26
+    400914: Mesh59
+    400916: Object
+    400918: Object 1
+    400920: Object 2
+    400922: Object01
+    400924: Object01 1
+    400926: Object01 2
+    400928: Object02
+    400930: Object02 1
+    400932: Object02 2
+    400934: Object02 3
+    400936: Object02 4
+    400938: Object03
+    400940: Object03 1
+    400942: Object03 2
+    400944: Object03 3
+    400946: Object04
+    400948: Object04 1
+    400950: Object04 2
+    400952: Object05
+    400954: Object05 1
+    400956: Object05 2
+    400958: Object05 3
+    400960: Object05 4
+    400962: Object06
+    400964: Object06 1
+    400966: Object06 2
+    400968: Object06 3
+    400970: Object07
+    400972: Object07 1
+    400974: Object07 2
+    400976: Object08
+    400978: Object08 1
+    400980: Object08 2
+    400982: Object09
+    400984: Object09 1
+    400986: Object09 2
+    400988: Object09 3
+    400990: Object09smoke02
+    400992: Object10
+    400994: Object10 1
+    400996: Object10 2
+    400998: Object10 3
+    401000: Object11
+    401002: Object11 1
+    401004: Object11 2
+    401006: Object12
+    401008: Object12 1
+    401010: Object12 2
+    401012: Object13
+    401014: Object13 1
+    401016: Object13 2
+    401018: Object14
+    401020: Object14 1
+    401022: Object140
+    401024: Object140 1
+    401026: Object141
+    401028: Object141 1
+    401030: Object141 2
+    401032: Object142
+    401034: Object142 1
+    401036: Object15
+    401038: Object15 1
+    401040: Object15 2
+    401042: Object157
+    401044: Object157 1
+    401046: Object159
+    401048: Object159 1
+    401050: Object16
+    401052: Object16 1
+    401054: Object16 2
+    401056: Object160
+    401058: Object160 1
+    401060: Object163
+    401062: Object163 1
+    401064: Object17
+    401066: Object17 1
+    401068: Object17 2
+    401070: Object18
+    401072: Object19
+    401074: Object20
+    401076: Object21
+    401078: Object22
+    401080: Object23
+    401082: Object23 1
+    401084: Object23 2
+    401086: Object24
+    401088: Object24 1
+    401090: Object24 2
+    401092: Object25
+    401094: Object28
+    401096: Object28 1
+    401098: Object31
+    401100: Object31 1
+    401102: Object34
+    401104: Object34 1
+    401106: Object35
+    401108: Object35 1
+    401110: Object36
+    401112: Object36 1
+    401114: Plane01
+    401116: Plane02
+    401118: redlight
+    401120: Ref_Center
+    401122: Ref_Center 1
+    401124: Ref_Center 10
+    401126: Ref_Center 11
+    401128: Ref_Center 12
+    401130: Ref_Center 13
+    401132: Ref_Center 14
+    401134: Ref_Center 15
+    401136: Ref_Center 16
+    401138: Ref_Center 17
+    401140: Ref_Center 18
+    401142: Ref_Center 19
+    401144: Ref_Center 2
+    401146: Ref_Center 20
+    401148: Ref_Center 21
+    401150: Ref_Center 3
+    401152: Ref_Center 4
+    401154: Ref_Center 5
+    401156: Ref_Center 6
+    401158: Ref_Center 7
+    401160: Ref_Center 8
+    401162: Ref_Center 9
+    401164: Ref_Damage
+    401166: Ref_Damage 01
+    401168: Ref_Damage 01 1
+    401170: Ref_Damage 01 2
+    401172: Ref_Damage 01 3
+    401174: Ref_Damage 01 4
+    401176: Ref_Damage 01 5
+    401178: Ref_Damage 02
+    401180: Ref_Damage 02 1
+    401182: Ref_Damage 02 2
+    401184: Ref_Damage 02 3
+    401186: Ref_Damage 02 4
+    401188: Ref_Damage 02 5
+    401190: Ref_Damage 03
+    401192: Ref_Damage 03 1
+    401194: Ref_Damage 03 2
+    401196: Ref_Damage 03 3
+    401198: Ref_Damage 03 4
+    401200: Ref_Damage 03 5
+    401202: Ref_Damage 04
+    401204: Ref_Damage 04 1
+    401206: Ref_Damage 04 2
+    401208: Ref_Damage 04 3
+    401210: Ref_Damage 04 4
+    401212: Ref_Damage 04 5
+    401214: Ref_Damage 05
+    401216: Ref_Damage 05 1
+    401218: Ref_Damage 05 2
+    401220: Ref_Damage 05 3
+    401222: Ref_Damage 05 4
+    401224: Ref_Damage 05 5
+    401226: Ref_Damage 06
+    401228: Ref_Damage 06 1
+    401230: Ref_Damage 06 2
+    401232: Ref_Damage 06 3
+    401234: Ref_Damage 06 4
+    401236: Ref_Damage 06 5
+    401238: Ref_Damage 07
+    401240: Ref_Damage 07 1
+    401242: Ref_Damage 07 2
+    401244: Ref_Damage 07 3
+    401246: Ref_Damage 07 4
+    401248: Ref_Damage 07 5
+    401250: Ref_Damage 08
+    401252: Ref_Damage 08 1
+    401254: Ref_Damage 08 2
+    401256: Ref_Damage 08 3
+    401258: Ref_Damage 08 4
+    401260: Ref_Damage 08 5
+    401262: Ref_Damage 09
+    401264: Ref_Damage 09 1
+    401266: Ref_Damage 09 2
+    401268: Ref_Damage 09 3
+    401270: Ref_Damage 09 4
+    401272: Ref_Damage 09 5
+    401274: Ref_Damage 1
+    401276: Ref_Damage 10
+    401278: Ref_Damage 10 1
+    401280: Ref_Damage 10 2
+    401282: Ref_Damage 10 3
+    401284: Ref_Damage 10 4
+    401286: Ref_Damage 10 5
+    401288: Ref_Damage 2
+    401290: Ref_Damage 3
+    401292: Ref_Damage 4
+    401294: Ref_Damage 5
+    401296: Ref_HardPoint
+    401298: Ref_Hardpoint
+    401300: Ref_HardPoint 1
+    401302: Ref_Hardpoint 1
+    401304: Ref_HardPoint 2
+    401306: Ref_Hardpoint 2
+    401308: Ref_HardPoint 3
+    401310: Ref_Hardpoint 3
+    401312: Ref_HardPoint 4
+    401314: Ref_HardPoint 5
+    401316: Ref_Head
+    401318: Ref_Head 1
+    401320: Ref_Head 2
+    401322: Ref_Head 3
+    401324: Ref_Head 4
+    401326: Ref_Head 5
+    401328: Ref_Head 6
+    401330: Ref_Head 7
+    401332: Ref_Origin
+    401334: Ref_Origin 1
+    401336: Ref_Origin 10
+    401338: Ref_Origin 11
+    401340: Ref_Origin 12
+    401342: Ref_Origin 13
+    401344: Ref_Origin 14
+    401346: Ref_Origin 15
+    401348: Ref_Origin 16
+    401350: Ref_Origin 17
+    401352: Ref_Origin 18
+    401354: Ref_Origin 19
+    401356: Ref_Origin 2
+    401358: Ref_Origin 20
+    401360: Ref_Origin 21
+    401362: Ref_Origin 3
+    401364: Ref_Origin 4
+    401366: Ref_Origin 5
+    401368: Ref_Origin 6
+    401370: Ref_Origin 7
+    401372: Ref_Origin 8
+    401374: Ref_Origin 9
+    401376: Ref_Overhead
+    401378: Ref_Overhead 1
+    401380: Ref_Overhead 10
+    401382: Ref_Overhead 11
+    401384: Ref_Overhead 12
+    401386: Ref_Overhead 13
+    401388: Ref_Overhead 14
+    401390: Ref_Overhead 15
+    401392: Ref_Overhead 16
+    401394: Ref_Overhead 17
+    401396: Ref_Overhead 18
+    401398: Ref_Overhead 19
+    401400: Ref_Overhead 2
+    401402: Ref_Overhead 20
+    401404: Ref_Overhead 21
+    401406: Ref_Overhead 3
+    401408: Ref_Overhead 4
+    401410: Ref_Overhead 5
+    401412: Ref_Overhead 6
+    401414: Ref_Overhead 7
+    401416: Ref_Overhead 8
+    401418: Ref_Overhead 9
+    401420: Ref_Target
+    401422: Ref_Target 1
+    401424: Ref_Target 2
+    401426: Ref_Target 3
+    401428: Ref_TurretZ
+    401430: Ref_TurretZ 1
+    401432: Ref_TurretZ 2
+    401434: Ref_TurretZ 3
+    401436: Ref_TurretZ 4
+    401438: Ref_TurretZ 5
+    401440: Ref_TurretZ 6
+    401442: Ref_TurretZ 7
+    401444: Ref_TurretZ 8
+    401446: Ref_TurretZ 9
+    401448: Ref_Weapon
+    401450: Ref_Weapon 01
+    401452: Ref_Weapon 01 1
+    401454: Ref_Weapon 01 2
+    401456: Ref_Weapon 01 3
+    401458: Ref_Weapon 01 4
+    401460: Ref_Weapon 01 5
+    401462: Ref_Weapon 01 6
+    401464: Ref_Weapon 01 7
+    401466: Ref_Weapon 01 8
+    401468: Ref_Weapon 01 9
+    401470: Ref_Weapon 02
+    401472: Ref_Weapon 02 1
+    401474: Ref_Weapon 02 2
+    401476: Ref_Weapon 02 3
+    401478: Ref_Weapon 02 4
+    401480: Ref_Weapon 02 5
+    401482: Ref_Weapon 03
+    401484: Ref_Weapon 03 1
+    401486: Ref_Weapon 04
+    401488: Ref_Weapon 04 1
+    401490: Ref_Weapon 09
+    401492: Ref_Weapon 09 1
+    401494: Ref_Weapon 1
+    401496: Ref_Weapon 10
+    401498: Ref_Weapon 10 1
+    401500: Ref_Weapon 11
+    401502: Ref_Weapon 11 1
+    401504: Ref_Weapon 12
+    401506: Ref_Weapon 12 1
+    401508: Ref_Weapon 13
+    401510: Ref_Weapon 13 1
+    401512: Ref_Weapon 14
+    401514: Ref_Weapon 14 1
+    401516: Ref_Weapon 15
+    401518: Ref_Weapon 15 1
+    401520: Ref_Weapon 2
+    401522: Ref_Weapon 20
+    401524: Ref_Weapon 20 1
+    401526: Ref_Weapon 21
+    401528: Ref_Weapon 21 1
+    401530: Ref_Weapon 22
+    401532: Ref_Weapon 22 1
+    401534: Ref_Weapon 23
+    401536: Ref_Weapon 23 1
+    401538: Ref_Weapon 24
+    401540: Ref_Weapon 24 1
+    401542: Ref_Weapon 25
+    401544: Ref_Weapon 25 1
+    401546: Ref_Weapon 3
+    401548: Ref_Weapon 4
+    401550: Ref_Weapon 5
+    401552: Ref_Weapon Left
+    401554: Ref_Weapon Left 1
+    401556: Ref_Weapon Main
+    401558: Ref_Weapon Main 1
+    401560: Ref_Weapon Right
+    401562: Ref_Weapon Right 1
+    401564: Root
+    401566: SC2SplRbn01.EndPointx
+    401568: SC2SplRbn01x
+    401570: SC2SplRbn02x
+    401572: Shield
+    401574: Shield01
+    401576: Shield02
+    401578: small fire bursts01
+    401580: Sphere01
+    401582: Sphere01distortion02
+    401584: Sphere01distortion02 1
+    401586: Sphere01distortion02 2
+    401588: Sphere02
+    401590: Sphere03
+    401592: Sphere04
+    401594: Star2 projector01blacksmear
+    401596: Star2 projector01blacksmear 1
+    401598: Star2 projector01blacksmear 2
+    401600: Star2_Light_Liftoff
+    401602: Star2_Light_Liftoff 1
+    401604: Star2_Part_VentSteam
+    401606: Star2_Part_VentSteam 1
+    401608: Star2_Part_Work
+    401610: Star2_Part_Work 1
+    401612: Star2Omni01
+    401614: Star2Omni01 1
+    401616: Star2Omni01 2
+    401618: Star2Omni01 3
+    401620: Star2Omni01 4
+    401622: Star2Omni01 5
+    401624: Star2Omni02
+    401626: Star2Omni02 1
+    401628: Star2Omni02 2
+    401630: Star2Omni02 3
+    401632: Star2Omni02 4
+    401634: Star2Omni02~DUP~0
+    401636: Star2Omni02~DUP~0 1
+    401638: Star2Omni02~DUP~0 2
+    401640: Star2Omni03
+    401642: Star2Omni04
+    401644: Star2Omni04 1
+    401646: Star2Omni04 2
+    401648: Star2Omni04 3
+    401650: Star2Omni05
+    401652: Star2Omni05 1
+    401654: Star2Omni05 2
+    401656: Star2Omni05 3
+    401658: Star2Omni05 4
+    401660: Star2Omni06
+    401662: Star2Omni06 1
+    401664: Star2Omni06 2
+    401666: Star2Omni06 3
+    401668: Star2Omni069
+    401670: Star2Omni069 1
+    401672: Star2Omni069 2
+    401674: Star2Omni07
+    401676: Star2Omni07 1
+    401678: Star2Omni07 2
+    401680: Star2Omni07 3
+    401682: Star2Omni70
+    401684: Star2Omni70 1
+    401686: Star2Omni70 2
+    401688: Star2Part01
+    401690: Star2Part01 1
+    401692: Star2Part01 2
+    401694: Star2Part01 3
+    401696: Star2Part01blood02tails
+    401698: Star2Part01Bloodpool05
+    401700: Star2Part01debris
+    401702: Star2Part01debris 1
+    401704: Star2Part01debris 2
+    401706: Star2Part01debris 3
+    401708: Star2Part01debris01
+    401710: Star2Part01debris02
+    401712: Star2Part01exhaust
+    401714: Star2Part01exhaust 1
+    401716: Star2Part01exhaust 2
+    401718: Star2Part01exhaust 3
+    401720: Star2Part01exhaust 4
+    401722: Star2Part01exhaust01
+    401724: Star2Part01exhaust01 1
+    401726: Star2Part01exhaust01 2
+    401728: Star2Part01exhaust01 3
+    401730: Star2Part01exhaust01 4
+    401732: Star2Part01exhaust02
+    401734: Star2Part01exhaust02 1
+    401736: Star2Part01exhaust02 2
+    401738: Star2Part01exhaust02 3
+    401740: Star2Part01exhaust02 4
+    401742: Star2Part01exhaust03
+    401744: Star2Part01exhaust03 1
+    401746: Star2Part01exhaust03 2
+    401748: Star2Part01exhaust03 3
+    401750: Star2Part01exhaust03 4
+    401752: Star2Part01exhaust04
+    401754: Star2Part01exhaust04 1
+    401756: Star2Part01exhaust04 2
+    401758: Star2Part01exhaust04 3
+    401760: Star2Part01exhaust05up
+    401762: Star2Part01exhaust05up 1
+    401764: Star2Part01exhaust05up 2
+    401766: Star2Part01fire04
+    401768: Star2Part01firemain
+    401770: Star2Part01firemain 1
+    401772: Star2Part01firemain 2
+    401774: Star2Part01firemain 3
+    401776: Star2Part01firemain01
+    401778: Star2Part01flash
+    401780: Star2Part01flash01
+    401782: Star2Part01flash01 1
+    401784: Star2Part01glow01
+    401786: Star2Part01jetfire01
+    401788: Star2Part01jetfire01 1
+    401790: Star2Part01jetfire01 2
+    401792: Star2Part01jetfire01 3
+    401794: Star2Part01jetfire02
+    401796: Star2Part01jetfire02 1
+    401798: Star2Part01jetfire02 2
+    401800: Star2Part01jetfire02 3
+    401802: Star2Part01jetfire03
+    401804: Star2Part01jetfire03 1
+    401806: Star2Part01jetfire03 2
+    401808: Star2Part01jetfire04
+    401810: Star2Part01jetfire04 1
+    401812: Star2Part01jetfire04 2
+    401814: Star2Part01jetfire05
+    401816: Star2Part01jetfire05 1
+    401818: Star2Part01jetfire05 2
+    401820: Star2Part01jetfire06
+    401822: Star2Part01jetfire06 1
+    401824: Star2Part01jetfire06 2
+    401826: Star2Part01jetfire07
+    401828: Star2Part01jetfire07 1
+    401830: Star2Part01jetfire07 2
+    401832: Star2Part01jetwalk
+    401834: Star2Part01jetwalk01
+    401836: Star2Part01shock01
+    401838: Star2Part01shock01fast
+    401840: Star2Part01shock01fast 1
+    401842: Star2Part01shock02big
+    401844: Star2Part01shock02big01up
+    401846: Star2Part01sparksbounce01
+    401848: Star2Part01sparksbounce01 1
+    401850: Star2Part01sparksbounce01 2
+    401852: Star2Part01sparksparent
+    401854: Star2Part01trailparernt
+    401856: Star2Part02
+    401858: Star2Part02 1
+    401860: Star2Part02 2
+    401862: Star2Part02 3
+    401864: Star2Part022
+    401866: Star2Part03
+    401868: Star2Part03 1
+    401870: Star2Part03 2
+    401872: Star2Part03 3
+    401874: Star2Part03jet05
+    401876: Star2Part03jet06smoke
+    401878: Star2Part03jet06smoke 1
+    401880: Star2Part03jet06smoke 2
+    401882: Star2Part03jet06smoke 3
+    401884: Star2Part03jet06smoke01
+    401886: Star2Part03jet06smoke01 1
+    401888: Star2Part03jet06smoke01 2
+    401890: Star2Part03jet06smoke01 3
+    401892: Star2Part03jet06smoke02
+    401894: Star2Part03jet06smoke02 1
+    401896: Star2Part03jet06smoke02 2
+    401898: Star2Part03jet06sparks
+    401900: Star2Part03jet06sparks 1
+    401902: Star2Part03jet06sparks 2
+    401904: Star2Part03jet06sparks 3
+    401906: Star2Part03jet06sparks01
+    401908: Star2Part03jet06sparks01 1
+    401910: Star2Part03jet06sparks01 2
+    401912: Star2Part03jet06sparks01 3
+    401914: Star2Part03jet06sparks02
+    401916: Star2Part03jet06sparks02 1
+    401918: Star2Part03jet06sparks02 2
+    401920: Star2Part03jet08
+    401922: Star2Part03jet09
+    401924: Star2Part03jet10
+    401926: Star2Part03jet11
+    401928: Star2Part03jet12
+    401930: Star2Part03liftoffdebris
+    401932: Star2Part03liftoffdebris 1
+    401934: Star2Part03liftoffdebris 2
+    401936: Star2Part03liftoffdebris 3
+    401938: Star2Part03tails01
+    401940: Star2Part04
+    401942: Star2Part04jetglow01
+    401944: Star2Part04jetglow01 1
+    401946: Star2Part04jetglow01 2
+    401948: Star2Part04jetglow01 3
+    401950: Star2Part04jetglow01 4
+    401952: Star2Part04jetglow02
+    401954: Star2Part04jetglow02 1
+    401956: Star2Part04jetglow02 2
+    401958: Star2Part04jetglow02 3
+    401960: Star2Part04jetglow02 4
+    401962: Star2Part04jetglow03
+    401964: Star2Part04jetglow03 1
+    401966: Star2Part04jetglow03 2
+    401968: Star2Part05
+    401970: Star2Part05engineglowstand
+    401972: Star2Part05engineglowstand01
+    401974: Star2Part05engineglowstand02
+    401976: Star2Part05engineglowstand03
+    401978: Star2Part05engineglowwalk
+    401980: Star2Part05engineglowwalk01
+    401982: Star2Part05engineglowwalk02
+    401984: Star2Part05engineglowwalk03
+    401986: Star2Part05lioghtflash01
+    401988: Star2Part05lioghtflash01 1
+    401990: Star2Part05lioghtflash01 2
+    401992: Star2Part08
+    401994: Star2Part0jetfire01
+    401996: Star2Part0jetfire02
+    401998: Star2Part10Shells
+    402000: Star2Part10Shells 1
+    402002: Star2Part10Shells 2
+    402004: Star2Part10Shells01
+    402006: Star2Part10Shells01 1
+    402008: Star2Part10Shells01 2
+    402010: Star2Part11
+    402012: Star2Part21sunrays
+    402014: Star2Part29gooey
+    402016: Star2Part29gooey02
+    402018: Star2Part29gooey03anim
+    402020: Star2Part29headshot
+    402022: Star2Part29mistblood
+    402024: Star2Part31big smoke
+    402026: Star2Part31big smoke 1
+    402028: Star2Part31big smoke 2
+    402030: Star2Part31big smoke 3
+    402032: Star2Part_BlackSmoke
+    402034: Star2Part_BlackSmoke 1
+    402036: Star2PartFirenewsmokering
+    402038: Star2PartSmoke
+    402040: Star2PartSmoke 1
+    402042: Star2PartSmoke 2
+    402044: Star2Partsmokering
+    402046: Star2Partsmokering 1
+    402048: Star2Partsmokering 2
+    402050: Star2PartSmokeTendril1
+    402052: Star2PartSmokeTendril1 1
+    402054: Star2PartSmokeTendril1x
+    402056: Star2PartSmokeTendril1x01
+    402058: Star2Partsmoketrailz
+    402060: Star2PartSpinn
+    402062: Star2PartSpinn 1
+    402064: Star2PartSpinn 2
+    402066: Star2PartSpinn01
+    402068: Star2PartSpinn01 1
+    402070: Star2PartSpinn01 2
+    402072: Star2Ribbon01
+    402074: Star2Ribbon01heatwave02
+    402076: Star2Ribbon01heatwave02 1
+    402078: Star2Ribbon01heatwave02 2
+    402080: Star2Ribbon01heatwave03
+    402082: Star2Ribbon01heatwave03 1
+    402084: Star2Ribbon01heatwave03 2
+    402086: Star2Ribbon02
+    402088: Torus01
+    402090: Torus01 1
+    402092: Torus01 2
+    402094: Torus01 3
+    402096: TT_forCLAW
+    402098: TT_Turret
+    402100: TurretBase
+    402102: Unit_Terran_Battlecruiser_
+    402104: Unit_Terran_Battlecruiser_ 1
+    402106: Unit_Terran_Battlecruiser_02
+    402108: Unit_Terran_Battlecruiser_03
+    402110: Unit_Terran_Battlecruiser_04
+    402112: Unit_Terran_Battlecruiser_04 1
+    402114: Unit_Terran_Battlecruiser_05
+    402116: Unit_Terran_Battlecruiser_07
+    402118: Unit_Terran_Battlecruiser_07 1
+    402120: Unit_Terran_Battlecruiser_Main
+    402122: Unit_Terran_Battlecruiser_Main 1
+    402124: Unit_Terran_Battlecruiser_Yamato
+    402126: Unit_Terran_Battlecruiser_Yamato 1
+    402128: Unit_Terran_Construc_Panel_01
+    402130: Unit_Terran_Construc_Panel_01 1
+    402132: Unit_Terran_Construc_Panel_02
+    402134: Unit_Terran_Construc_Panel_02 1
+    402136: Unit_Terran_Construc_Panel_03
+    402138: Unit_Terran_Construc_Panel_03 1
+    402140: Unit_Terran_Construc_Panel_04
+    402142: Unit_Terran_Construc_Panel_04 1
+    402144: Unit_Terran_Construc_Panel_05
+    402146: Unit_Terran_Construc_Panel_05 1
+    402148: Unit_Terran_Construc_Panel_06
+    402150: Unit_Terran_Construc_Panel_06 1
+    402152: Unit_Terran_Dropship_Booster00
+    402154: Unit_Terran_Dropship_Booster01
+    402156: Unit_Terran_Dropshipx
+    402158: Vol_Target
+    402160: Vol_Target 01
+    402162: Vol_Target 01 1
+    402164: Vol_Target 01 10
+    402166: Vol_Target 01 11
+    402168: Vol_Target 01 12
+    402170: Vol_Target 01 13
+    402172: Vol_Target 01 2
+    402174: Vol_Target 01 3
+    402176: Vol_Target 01 4
+    402178: Vol_Target 01 5
+    402180: Vol_Target 01 6
+    402182: Vol_Target 01 7
+    402184: Vol_Target 01 8
+    402186: Vol_Target 01 9
+    402188: Vol_Target 02
+    402190: Vol_Target 02 1
+    402192: Vol_Target 02 10
+    402194: Vol_Target 02 11
+    402196: Vol_Target 02 12
+    402198: Vol_Target 02 13
+    402200: Vol_Target 02 2
+    402202: Vol_Target 02 3
+    402204: Vol_Target 02 4
+    402206: Vol_Target 02 5
+    402208: Vol_Target 02 6
+    402210: Vol_Target 02 7
+    402212: Vol_Target 02 8
+    402214: Vol_Target 02 9
+    402216: Vol_Target 03
+    402218: Vol_Target 03 1
+    402220: Vol_Target 03 10
+    402222: Vol_Target 03 11
+    402224: Vol_Target 03 2
+    402226: Vol_Target 03 3
+    402228: Vol_Target 03 4
+    402230: Vol_Target 03 5
+    402232: Vol_Target 03 6
+    402234: Vol_Target 03 7
+    402236: Vol_Target 03 8
+    402238: Vol_Target 03 9
+    402240: Vol_Target 04
+    402242: Vol_Target 04 1
+    402244: Vol_Target 04 10
+    402246: Vol_Target 04 11
+    402248: Vol_Target 04 2
+    402250: Vol_Target 04 3
+    402252: Vol_Target 04 4
+    402254: Vol_Target 04 5
+    402256: Vol_Target 04 6
+    402258: Vol_Target 04 7
+    402260: Vol_Target 04 8
+    402262: Vol_Target 04 9
+    402264: Vol_Target 05
+    402266: Vol_Target 05 1
+    402268: Vol_Target 05 2
+    402270: Vol_Target 05 3
+    402272: Vol_Target 05 4
+    402274: Vol_Target 05 5
+    402276: Vol_Target 05 6
+    402278: Vol_Target 05 7
+    402280: Vol_Target 05 8
+    402282: Vol_Target 05 9
+    402284: Vol_Target 06
+    402286: Vol_Target 06 1
+    402288: Vol_Target 06 2
+    402290: Vol_Target 06 3
+    402292: Vol_Target 06 4
+    402294: Vol_Target 06 5
+    402296: Vol_Target 06 6
+    402298: Vol_Target 06 7
+    402300: Vol_Target 07
+    402302: Vol_Target 07 1
+    402304: Vol_Target 07 2
+    402306: Vol_Target 07 3
+    402308: Vol_Target 07 4
+    402310: Vol_Target 07 5
+    402312: Vol_Target 08
+    402314: Vol_Target 08 1
+    402316: Vol_Target 08 2
+    402318: Vol_Target 08 3
+    402320: Vol_Target 1
+    402322: Vol_Target 10
+    402324: Vol_Target 10 1
+    402326: Vol_Target 10 1 1
+    402328: Vol_Target 10 2
+    402330: Vol_Target 10 3
+    402332: Vol_Target 11
+    402334: Vol_Target 11 1
+    402336: Vol_Target 11 1 1
+    402338: Vol_Target 11 2
+    402340: Vol_Target 11 3
+    402342: Vol_Target 12
+    402344: Vol_Target 13
+    402346: Vol_Target 2
+    402348: Vol_Target 3
+    402350: Vol_Target 4
+    402352: Vol_Target 5
+    402354: Vol_Target 6
+    402356: Vol_Target 7
+    402358: Vol_Target 8
+    402360: Vol_Target 9
+    4300000: CommandCenter_0
+    4300002: CommandCenter_1
+    4300004: CommandCenter_2
+    4300006: CommandCenter_3
+    4300008: CommandCenter_4
+    4300010: CommandCenter_5
+    4300012: CommandCenter_6
+    4300014: CommandCenter_7
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: CommandCenter_0
+    13700002: CommandCenter_1
+    13700004: CommandCenter_2
+    13700006: CommandCenter_3
+    13700008: CommandCenter_4
+    13700010: CommandCenter_5
+    13700012: CommandCenter_6
+    13700014: CommandCenter_7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

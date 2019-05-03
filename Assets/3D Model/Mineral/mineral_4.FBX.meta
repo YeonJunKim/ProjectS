@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 58ceb55db9eea63428de99fbbca728a7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone_A_BIG
+    100004: Bone_A_BIG 1
+    100006: Bone_A_BIG 2
+    100008: Bone_A_BIG10
+    100010: Bone_A_BIG17
+    100012: Bone_A_BIG18
+    100014: Bone_B_Med
+    100016: Bone_B_Med 1
+    100018: Bone_B_Med 2
+    100020: Bone_B_Med10
+    100022: Bone_B_Med17
+    100024: Bone_B_Med18
+    100026: Bone_C_small
+    100028: Bone_C_small 1
+    100030: Bone_C_small 2
+    100032: Bone_C_small10
+    100034: Bone_C_small17
+    100036: Bone_C_small18
+    100038: Bone_D_small19
+    100040: Bone_D_small19 1
+    100042: Bone_D_small19 2
+    100044: Bone_D_small20
+    100046: Bone_D_small27
+    100048: Bone_D_small28
+    100050: Bound Sphere001
+    100052: Bound Sphere002
+    100054: Bound Sphere003
+    100056: Bound Sphere004
+    100058: Bound Sphere005
+    100060: Bound Sphere006
+    100062: Bound Sphere007
+    100064: Bound Sphere008
+    100066: Bound Sphere009
+    100068: Bound Sphere010
+    100070: Bound Sphere011
+    100072: C13 Merge01
+    100074: C13 Merge01 1
+    100076: C13 Merge01 2
+    100078: Crystal_Base14 Merge01
+    100080: Crystal_Base14 Merge02
+    100082: Crystal_Base14 Merge10
+    100084: Crystals_Large03 Merge01
+    100086: Crystals_Large03 Merge05
+    100088: Crystals_Large03 Merge09
+    100090: Crystals_Large03 Merge15
+    100092: default01
+    100094: GeoSphere01
+    100096: HighYieldMineralField_0
+    100098: HighYieldMineralField_00
+    100100: HighYieldMineralField_00 1
+    100102: HighYieldMineralField_01
+    100104: HighYieldMineralField_08
+    100106: HighYieldMineralField_09
+    100108: HighYieldMineralFieldLow_00
+    100110: hitTestTight
+    100112: hitTestTight 1
+    100114: hitTestTight 2
+    100116: hitTestTight 3
+    100118: hitTestTight 4
+    100120: hitTestTight 5
+    100122: hitTestTight01
+    100124: hitTestTight01 1
+    100126: hitTestTight08
+    100128: hitTestTight08 1
+    100130: hitTestTight09
+    100132: hitTestTight09 1
+    100134: //RootNode
+    100136: MineralCart_00
+    100138: Object06 Merge01
+    100140: Ref_Center
+    100142: Ref_Center 1
+    100144: Ref_Center 2
+    100146: Ref_Center 3
+    100148: Ref_Center 4
+    100150: Ref_Center 5
+    100152: Ref_Center 6
+    100154: Ref_Center 7
+    100156: Ref_Center 8
+    100158: Ref_Origin
+    100160: Ref_Origin 1
+    100162: Ref_Origin 2
+    100164: Ref_Origin 3
+    100166: Ref_Origin 4
+    100168: Ref_Origin 5
+    100170: Ref_Origin 6
+    100172: Ref_Origin 7
+    100174: Ref_Overhead
+    100176: Ref_Overhead 1
+    100178: Ref_Overhead 2
+    100180: Ref_Overhead 3
+    100182: Ref_Overhead 4
+    100184: Ref_Overhead 5
+    100186: Ref_Overhead 6
+    100188: Ref_Overhead 7
+    100190: Ref_Target
+    100192: Ref_Target 1
+    100194: Ref_Target 2
+    100196: Ref_Target 3
+    100198: Ref_Target 4
+    100200: Ref_Target 5
+    100202: Ref_Target 6
+    100204: splat
+    100206: Star2 projector01
+    100208: Star2Omni01
+    100210: Star2Omni01 1
+    100212: TornPlane39
+    100214: TornPlane39 1
+    100216: TornPlane42
+    100218: TornPlane42 1
+    100220: TornPlane44
+    100222: TornPlane44 1
+    100224: TornPlane62
+    100226: TornPlane65
+    100228: TornPlane66
+    100230: TornPlane67
+    100232: TornPlane68
+    100234: TornPlane69
+    100236: TornPlane90
+    100238: TornPlane93
+    400000: _M3_Anim_Data
+    400002: Bone_A_BIG
+    400004: Bone_A_BIG 1
+    400006: Bone_A_BIG 2
+    400008: Bone_A_BIG10
+    400010: Bone_A_BIG17
+    400012: Bone_A_BIG18
+    400014: Bone_B_Med
+    400016: Bone_B_Med 1
+    400018: Bone_B_Med 2
+    400020: Bone_B_Med10
+    400022: Bone_B_Med17
+    400024: Bone_B_Med18
+    400026: Bone_C_small
+    400028: Bone_C_small 1
+    400030: Bone_C_small 2
+    400032: Bone_C_small10
+    400034: Bone_C_small17
+    400036: Bone_C_small18
+    400038: Bone_D_small19
+    400040: Bone_D_small19 1
+    400042: Bone_D_small19 2
+    400044: Bone_D_small20
+    400046: Bone_D_small27
+    400048: Bone_D_small28
+    400050: Bound Sphere001
+    400052: Bound Sphere002
+    400054: Bound Sphere003
+    400056: Bound Sphere004
+    400058: Bound Sphere005
+    400060: Bound Sphere006
+    400062: Bound Sphere007
+    400064: Bound Sphere008
+    400066: Bound Sphere009
+    400068: Bound Sphere010
+    400070: Bound Sphere011
+    400072: C13 Merge01
+    400074: C13 Merge01 1
+    400076: C13 Merge01 2
+    400078: Crystal_Base14 Merge01
+    400080: Crystal_Base14 Merge02
+    400082: Crystal_Base14 Merge10
+    400084: Crystals_Large03 Merge01
+    400086: Crystals_Large03 Merge05
+    400088: Crystals_Large03 Merge09
+    400090: Crystals_Large03 Merge15
+    400092: default01
+    400094: GeoSphere01
+    400096: HighYieldMineralField_0
+    400098: HighYieldMineralField_00
+    400100: HighYieldMineralField_00 1
+    400102: HighYieldMineralField_01
+    400104: HighYieldMineralField_08
+    400106: HighYieldMineralField_09
+    400108: HighYieldMineralFieldLow_00
+    400110: hitTestTight
+    400112: hitTestTight 1
+    400114: hitTestTight 2
+    400116: hitTestTight 3
+    400118: hitTestTight 4
+    400120: hitTestTight 5
+    400122: hitTestTight01
+    400124: hitTestTight01 1
+    400126: hitTestTight08
+    400128: hitTestTight08 1
+    400130: hitTestTight09
+    400132: hitTestTight09 1
+    400134: //RootNode
+    400136: MineralCart_00
+    400138: Object06 Merge01
+    400140: Ref_Center
+    400142: Ref_Center 1
+    400144: Ref_Center 2
+    400146: Ref_Center 3
+    400148: Ref_Center 4
+    400150: Ref_Center 5
+    400152: Ref_Center 6
+    400154: Ref_Center 7
+    400156: Ref_Center 8
+    400158: Ref_Origin
+    400160: Ref_Origin 1
+    400162: Ref_Origin 2
+    400164: Ref_Origin 3
+    400166: Ref_Origin 4
+    400168: Ref_Origin 5
+    400170: Ref_Origin 6
+    400172: Ref_Origin 7
+    400174: Ref_Overhead
+    400176: Ref_Overhead 1
+    400178: Ref_Overhead 2
+    400180: Ref_Overhead 3
+    400182: Ref_Overhead 4
+    400184: Ref_Overhead 5
+    400186: Ref_Overhead 6
+    400188: Ref_Overhead 7
+    400190: Ref_Target
+    400192: Ref_Target 1
+    400194: Ref_Target 2
+    400196: Ref_Target 3
+    400198: Ref_Target 4
+    400200: Ref_Target 5
+    400202: Ref_Target 6
+    400204: splat
+    400206: Star2 projector01
+    400208: Star2Omni01
+    400210: Star2Omni01 1
+    400212: TornPlane39
+    400214: TornPlane39 1
+    400216: TornPlane42
+    400218: TornPlane42 1
+    400220: TornPlane44
+    400222: TornPlane44 1
+    400224: TornPlane62
+    400226: TornPlane65
+    400228: TornPlane66
+    400230: TornPlane67
+    400232: TornPlane68
+    400234: TornPlane69
+    400236: TornPlane90
+    400238: TornPlane93
+    4300000: HighYieldMineralField_0
+    7400000: Small_1
+    7400002: Basic
+    7400004: Small_2
+    7400006: Small_3
+    9500000: //RootNode
+    13700000: HighYieldMineralField_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Small_1
+      takeName: Take 001
+      firstFrame: 536
+      lastFrame: 579
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Bound Sphere001
+        weight: 1
+      - path: Bound Sphere002
+        weight: 1
+      - path: Bound Sphere003
+        weight: 1
+      - path: Bound Sphere004
+        weight: 1
+      - path: Bound Sphere005
+        weight: 1
+      - path: Bound Sphere006
+        weight: 1
+      - path: Bound Sphere007
+        weight: 1
+      - path: Bound Sphere008
+        weight: 1
+      - path: Bound Sphere009
+        weight: 1
+      - path: Bound Sphere010
+        weight: 1
+      - path: Bound Sphere011
+        weight: 1
+      - path: Crystals_Large03 Merge05
+        weight: 1
+      - path: GeoSphere01
+        weight: 1
+      - path: HighYieldMineralField_00
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1/Bone_A_BIG 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_D_small19 1
+        weight: 1
+      - path: HighYieldMineralField_00/C13 Merge01 1
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2/hitTestTight 5
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Center 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Origin 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Overhead 1
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Target 3
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane39 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane42 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane44 1
+        weight: 1
+      - path: HighYieldMineralField_0
+        weight: 1
+      - path: HighYieldMineralField_00 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2/Bone_A_BIG 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_D_small19 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/C13 Merge01 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1/hitTestTight 4
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Center 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Origin 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Overhead 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Target 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane39
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane42
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane44
+        weight: 1
+      - path: HighYieldMineralField_01
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10/Bone_A_BIG10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20/Crystal_Base14 Merge02
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01/hitTestTight01 1
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3/Ref_Center 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3/Ref_Origin 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3/Ref_Overhead 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Target 4
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane67
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane68
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane69
+        weight: 1
+      - path: HighYieldMineralField_08
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17/Crystals_Large03
+          Merge09
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_D_small27
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08/hitTestTight08 1
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4/Ref_Center 7
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Origin 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Overhead 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Target 5
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane62
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane65
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane66
+        weight: 1
+      - path: HighYieldMineralField_09
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18/Bone_A_BIG18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28/Crystal_Base14 Merge10
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09/hitTestTight09 1
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5/Ref_Center 8
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5/Ref_Origin 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5/Ref_Overhead 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Target 6
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane90
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane93
+        weight: 1
+      - path: HighYieldMineralFieldLow_00
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG/Crystals_Large03
+          Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19/Crystal_Base14 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/C13 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/default01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight/hitTestTight 3
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Object06 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Center
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Origin
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Overhead
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Target 1
+        weight: 1
+      - path: MineralCart_00
+        weight: 1
+      - path: MineralCart_00/Crystals_Large03 Merge15
+        weight: 1
+      - path: Ref_Target
+        weight: 1
+      - path: splat
+        weight: 1
+      - path: Star2 projector01
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Omni01 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Basic
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Bound Sphere001
+        weight: 1
+      - path: Bound Sphere002
+        weight: 1
+      - path: Bound Sphere003
+        weight: 1
+      - path: Bound Sphere004
+        weight: 1
+      - path: Bound Sphere005
+        weight: 1
+      - path: Bound Sphere006
+        weight: 1
+      - path: Bound Sphere007
+        weight: 1
+      - path: Bound Sphere008
+        weight: 1
+      - path: Bound Sphere009
+        weight: 1
+      - path: Bound Sphere010
+        weight: 1
+      - path: Bound Sphere011
+        weight: 1
+      - path: Crystals_Large03 Merge05
+        weight: 1
+      - path: GeoSphere01
+        weight: 1
+      - path: HighYieldMineralField_00
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1/Bone_A_BIG 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_D_small19 1
+        weight: 1
+      - path: HighYieldMineralField_00/C13 Merge01 1
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2/hitTestTight 5
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Center 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Origin 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Overhead 1
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Target 3
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane39 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane42 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane44 1
+        weight: 1
+      - path: HighYieldMineralField_0
+        weight: 1
+      - path: HighYieldMineralField_00 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2/Bone_A_BIG 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_D_small19 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/C13 Merge01 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1/hitTestTight 4
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Center 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Origin 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Overhead 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Target 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane39
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane42
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane44
+        weight: 1
+      - path: HighYieldMineralField_01
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10/Bone_A_BIG10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20/Crystal_Base14 Merge02
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01/hitTestTight01 1
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3/Ref_Center 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3/Ref_Origin 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3/Ref_Overhead 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Target 4
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane67
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane68
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane69
+        weight: 1
+      - path: HighYieldMineralField_08
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17/Crystals_Large03
+          Merge09
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_D_small27
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08/hitTestTight08 1
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4/Ref_Center 7
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Origin 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Overhead 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Target 5
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane62
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane65
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane66
+        weight: 1
+      - path: HighYieldMineralField_09
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18/Bone_A_BIG18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28/Crystal_Base14 Merge10
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09/hitTestTight09 1
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5/Ref_Center 8
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5/Ref_Origin 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5/Ref_Overhead 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Target 6
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane90
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane93
+        weight: 1
+      - path: HighYieldMineralFieldLow_00
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG/Crystals_Large03
+          Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19/Crystal_Base14 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/C13 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/default01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight/hitTestTight 3
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Object06 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Center
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Origin
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Overhead
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Target 1
+        weight: 1
+      - path: MineralCart_00
+        weight: 1
+      - path: MineralCart_00/Crystals_Large03 Merge15
+        weight: 1
+      - path: Ref_Target
+        weight: 1
+      - path: splat
+        weight: 1
+      - path: Star2 projector01
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Omni01 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Small_2
+      takeName: Take 001
+      firstFrame: 875
+      lastFrame: 918
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Bound Sphere001
+        weight: 1
+      - path: Bound Sphere002
+        weight: 1
+      - path: Bound Sphere003
+        weight: 1
+      - path: Bound Sphere004
+        weight: 1
+      - path: Bound Sphere005
+        weight: 1
+      - path: Bound Sphere006
+        weight: 1
+      - path: Bound Sphere007
+        weight: 1
+      - path: Bound Sphere008
+        weight: 1
+      - path: Bound Sphere009
+        weight: 1
+      - path: Bound Sphere010
+        weight: 1
+      - path: Bound Sphere011
+        weight: 1
+      - path: Crystals_Large03 Merge05
+        weight: 1
+      - path: GeoSphere01
+        weight: 1
+      - path: HighYieldMineralField_00
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1/Bone_A_BIG 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_D_small19 1
+        weight: 1
+      - path: HighYieldMineralField_00/C13 Merge01 1
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2/hitTestTight 5
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Center 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Origin 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Overhead 1
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Target 3
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane39 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane42 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane44 1
+        weight: 1
+      - path: HighYieldMineralField_0
+        weight: 1
+      - path: HighYieldMineralField_00 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2/Bone_A_BIG 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_D_small19 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/C13 Merge01 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1/hitTestTight 4
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Center 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Origin 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Overhead 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Target 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane39
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane42
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane44
+        weight: 1
+      - path: HighYieldMineralField_01
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10/Bone_A_BIG10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20/Crystal_Base14 Merge02
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01/hitTestTight01 1
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3/Ref_Center 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3/Ref_Origin 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3/Ref_Overhead 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Target 4
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane67
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane68
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane69
+        weight: 1
+      - path: HighYieldMineralField_08
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17/Crystals_Large03
+          Merge09
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_D_small27
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08/hitTestTight08 1
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4/Ref_Center 7
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Origin 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Overhead 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Target 5
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane62
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane65
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane66
+        weight: 1
+      - path: HighYieldMineralField_09
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18/Bone_A_BIG18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28/Crystal_Base14 Merge10
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09/hitTestTight09 1
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5/Ref_Center 8
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5/Ref_Origin 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5/Ref_Overhead 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Target 6
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane90
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane93
+        weight: 1
+      - path: HighYieldMineralFieldLow_00
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG/Crystals_Large03
+          Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19/Crystal_Base14 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/C13 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/default01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight/hitTestTight 3
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Object06 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Center
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Origin
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Overhead
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Target 1
+        weight: 1
+      - path: MineralCart_00
+        weight: 1
+      - path: MineralCart_00/Crystals_Large03 Merge15
+        weight: 1
+      - path: Ref_Target
+        weight: 1
+      - path: splat
+        weight: 1
+      - path: Star2 projector01
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Omni01 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Small_3
+      takeName: Take 001
+      firstFrame: 1214
+      lastFrame: 1224
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Bound Sphere001
+        weight: 1
+      - path: Bound Sphere002
+        weight: 1
+      - path: Bound Sphere003
+        weight: 1
+      - path: Bound Sphere004
+        weight: 1
+      - path: Bound Sphere005
+        weight: 1
+      - path: Bound Sphere006
+        weight: 1
+      - path: Bound Sphere007
+        weight: 1
+      - path: Bound Sphere008
+        weight: 1
+      - path: Bound Sphere009
+        weight: 1
+      - path: Bound Sphere010
+        weight: 1
+      - path: Bound Sphere011
+        weight: 1
+      - path: Crystals_Large03 Merge05
+        weight: 1
+      - path: GeoSphere01
+        weight: 1
+      - path: HighYieldMineralField_00
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_C_small 1/Bone_B_Med 1/Bone_A_BIG 1
+        weight: 1
+      - path: HighYieldMineralField_00/Bone_D_small19 1
+        weight: 1
+      - path: HighYieldMineralField_00/C13 Merge01 1
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2
+        weight: 1
+      - path: HighYieldMineralField_00/hitTestTight 2/hitTestTight 5
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Center 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Origin 2
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Overhead 1
+        weight: 1
+      - path: HighYieldMineralField_00/Ref_Target 3
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane39 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane42 1
+        weight: 1
+      - path: HighYieldMineralField_00/TornPlane44 1
+        weight: 1
+      - path: HighYieldMineralField_0
+        weight: 1
+      - path: HighYieldMineralField_00 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_C_small 2/Bone_B_Med 2/Bone_A_BIG 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Bone_D_small19 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/C13 Merge01 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/hitTestTight 1/hitTestTight 4
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Center 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Origin 1
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Overhead 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/Ref_Target 2
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane39
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane42
+        weight: 1
+      - path: HighYieldMineralField_00 1/TornPlane44
+        weight: 1
+      - path: HighYieldMineralField_01
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_C_small10/Bone_B_Med10/Bone_A_BIG10
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20
+        weight: 1
+      - path: HighYieldMineralField_01/Bone_D_small20/Crystal_Base14 Merge02
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01
+        weight: 1
+      - path: HighYieldMineralField_01/hitTestTight01/hitTestTight01 1
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Center 3/Ref_Center 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Origin 3/Ref_Origin 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Overhead 3/Ref_Overhead 6
+        weight: 1
+      - path: HighYieldMineralField_01/Ref_Target 4
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane67
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane68
+        weight: 1
+      - path: HighYieldMineralField_01/TornPlane69
+        weight: 1
+      - path: HighYieldMineralField_08
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_C_small17/Bone_B_Med17/Bone_A_BIG17/Crystals_Large03
+          Merge09
+        weight: 1
+      - path: HighYieldMineralField_08/Bone_D_small27
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08
+        weight: 1
+      - path: HighYieldMineralField_08/hitTestTight08/hitTestTight08 1
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Center 4/Ref_Center 7
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Origin 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Overhead 4
+        weight: 1
+      - path: HighYieldMineralField_08/Ref_Target 5
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane62
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane65
+        weight: 1
+      - path: HighYieldMineralField_08/TornPlane66
+        weight: 1
+      - path: HighYieldMineralField_09
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_C_small18/Bone_B_Med18/Bone_A_BIG18
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28
+        weight: 1
+      - path: HighYieldMineralField_09/Bone_D_small28/Crystal_Base14 Merge10
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09
+        weight: 1
+      - path: HighYieldMineralField_09/hitTestTight09/hitTestTight09 1
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Center 5/Ref_Center 8
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Origin 5/Ref_Origin 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Overhead 5/Ref_Overhead 7
+        weight: 1
+      - path: HighYieldMineralField_09/Ref_Target 6
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane90
+        weight: 1
+      - path: HighYieldMineralField_09/TornPlane93
+        weight: 1
+      - path: HighYieldMineralFieldLow_00
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_C_small/Bone_B_Med/Bone_A_BIG/Crystals_Large03
+          Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Bone_D_small19/Crystal_Base14 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/C13 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/default01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/hitTestTight/hitTestTight 3
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Object06 Merge01
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Center
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Origin
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Overhead
+        weight: 1
+      - path: HighYieldMineralFieldLow_00/Ref_Target 1
+        weight: 1
+      - path: MineralCart_00
+        weight: 1
+      - path: MineralCart_00/Crystals_Large03 Merge15
+        weight: 1
+      - path: Ref_Target
+        weight: 1
+      - path: splat
+        weight: 1
+      - path: Star2 projector01
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Omni01 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .800000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 5f6b2b93015a7d041a5d4678bdb4e587
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bound Sphere001
+    100004: Bound Sphere002
+    100006: Bound Sphere003
+    100008: Bound Sphere004
+    100010: Bound Sphere005
+    100012: Bound Sphere006
+    100014: Bound Sphere007
+    100016: Bound Sphere008
+    100018: Confirmation_0
+    100020: Confirmation_1
+    100022: Crater00
+    100024: Crater01
+    100026: Crater02
+    100028: Crater03
+    100030: Crater04
+    100032: Crater05
+    100034: Crater06
+    100036: Crater07
+    100038: Crater08
+    100040: Crater09
+    100042: Crater10
+    100044: Crater11
+    100046: Crater12
+    100048: Crater13
+    100050: Crater14
+    100052: Cylinder01
+    100054: Cylinder01 1
+    100056: Cylinder01 2
+    100058: Cylinder01 3
+    100060: Cylinder02
+    100062: Dummy01
+    100064: Dummy02
+    100066: Dummy03
+    100068: Dummy04
+    100070: Explosion01
+    100072: Explosion02
+    100074: Explosion03
+    100076: Explosion04
+    100078: Explosion05
+    100080: Explosion06
+    100082: Explosion07
+    100084: Explosion08
+    100086: Explosion09
+    100088: Explosion10
+    100090: Explosion11
+    100092: Explosion12
+    100094: Explosion18
+    100096: Explosion19
+    100098: Explosion20
+    100100: HitTestFuzzy
+    100102: HitTestFuzzy 1
+    100104: HitTestTight
+    100106: HitTestTight 1
+    100108: //RootNode
+    100110: Object01
+    100112: Object02
+    100114: Object03
+    100116: Object04
+    100118: Plane01
+    100120: Plane01 1
+    100122: Plane02
+    100124: Plane02 1
+    100126: Plane03
+    100128: Plane03 1
+    100130: Plane04
+    100132: Plane05
+    100134: Plane06
+    100136: Plane08
+    100138: Plane09
+    100140: Plane11
+    100142: Plane11 1
+    100144: Plane12
+    100146: Plane12 1
+    100148: Planet
+    100150: Planet01
+    100152: Ref_Center
+    100154: Ref_Center 1
+    100156: Ref_Origin
+    100158: Ref_Origin 1
+    100160: Ref_Overhead
+    100162: Ref_Overhead 1
+    100164: Ref_Target
+    100166: Sphere013
+    100168: Sphere015
+    100170: Sphere02
+    100172: Star2 projector01
+    100174: Star2 projector04
+    100176: Star2 projector04 1
+    100178: Star2 projector05arrows
+    100180: Star2 projector05arrows 1
+    100182: Star2Camera01
+    100184: Star2Part01
+    100186: Star2Part55
+    100188: Star2Part91
+    100190: Star2Part92
+    400000: _M3_Anim_Data
+    400002: Bound Sphere001
+    400004: Bound Sphere002
+    400006: Bound Sphere003
+    400008: Bound Sphere004
+    400010: Bound Sphere005
+    400012: Bound Sphere006
+    400014: Bound Sphere007
+    400016: Bound Sphere008
+    400018: Confirmation_0
+    400020: Confirmation_1
+    400022: Crater00
+    400024: Crater01
+    400026: Crater02
+    400028: Crater03
+    400030: Crater04
+    400032: Crater05
+    400034: Crater06
+    400036: Crater07
+    400038: Crater08
+    400040: Crater09
+    400042: Crater10
+    400044: Crater11
+    400046: Crater12
+    400048: Crater13
+    400050: Crater14
+    400052: Cylinder01
+    400054: Cylinder01 1
+    400056: Cylinder01 2
+    400058: Cylinder01 3
+    400060: Cylinder02
+    400062: Dummy01
+    400064: Dummy02
+    400066: Dummy03
+    400068: Dummy04
+    400070: Explosion01
+    400072: Explosion02
+    400074: Explosion03
+    400076: Explosion04
+    400078: Explosion05
+    400080: Explosion06
+    400082: Explosion07
+    400084: Explosion08
+    400086: Explosion09
+    400088: Explosion10
+    400090: Explosion11
+    400092: Explosion12
+    400094: Explosion18
+    400096: Explosion19
+    400098: Explosion20
+    400100: HitTestFuzzy
+    400102: HitTestFuzzy 1
+    400104: HitTestTight
+    400106: HitTestTight 1
+    400108: //RootNode
+    400110: Object01
+    400112: Object02
+    400114: Object03
+    400116: Object04
+    400118: Plane01
+    400120: Plane01 1
+    400122: Plane02
+    400124: Plane02 1
+    400126: Plane03
+    400128: Plane03 1
+    400130: Plane04
+    400132: Plane05
+    400134: Plane06
+    400136: Plane08
+    400138: Plane09
+    400140: Plane11
+    400142: Plane11 1
+    400144: Plane12
+    400146: Plane12 1
+    400148: Planet
+    400150: Planet01
+    400152: Ref_Center
+    400154: Ref_Center 1
+    400156: Ref_Origin
+    400158: Ref_Origin 1
+    400160: Ref_Overhead
+    400162: Ref_Overhead 1
+    400164: Ref_Target
+    400166: Sphere013
+    400168: Sphere015
+    400170: Sphere02
+    400172: Star2 projector01
+    400174: Star2 projector04
+    400176: Star2 projector04 1
+    400178: Star2 projector05arrows
+    400180: Star2 projector05arrows 1
+    400182: Star2Camera01
+    400184: Star2Part01
+    400186: Star2Part55
+    400188: Star2Part91
+    400190: Star2Part92
+    4300000: Confirmation_0
+    4300002: Confirmation_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Confirmation_0
+    13700002: Confirmation_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

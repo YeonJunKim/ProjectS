@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: e42394377e6dc00478e94767bf597d4d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone_A_BIG
+    100004: Bone_A_BIG 1
+    100006: Bone_A_BIG17
+    100008: Bone_A_BIG18
+    100010: Bone_B_Med
+    100012: Bone_B_Med 1
+    100014: Bone_B_Med17
+    100016: Bone_B_Med18
+    100018: Bone_C_small
+    100020: Bone_C_small 1
+    100022: Bone_C_small17
+    100024: Bone_C_small18
+    100026: Bone_D_small19
+    100028: Bone_D_small19 1
+    100030: Bone_D_small27
+    100032: Bone_D_small28
+    100034: Bound Sphere001
+    100036: Bound Sphere002
+    100038: Bound Sphere003
+    100040: Bound Sphere004
+    100042: Bound Sphere005
+    100044: Bound Sphere006
+    100046: Bound Sphere007
+    100048: Bound Sphere008
+    100050: Bound Sphere009
+    100052: C13 Merge01
+    100054: C13 Merge01 1
+    100056: Crystal_Base14 Merge01
+    100058: Crystal_Base14 Merge10
+    100060: Crystals_Large03 Merge01
+    100062: Crystals_Large03 Merge05
+    100064: Crystals_Large03 Merge09
+    100066: Crystals_Large03 Merge15
+    100068: default01
+    100070: GeoSphere01
+    100072: HighYieldMineralField_0
+    100074: HighYieldMineralField_00
+    100076: HighYieldMineralField_08
+    100078: HighYieldMineralField_09
+    100080: HighYieldMineralFieldLow_00
+    100082: hitTestTight
+    100084: hitTestTight 1
+    100086: hitTestTight 2
+    100088: hitTestTight 3
+    100090: hitTestTight08
+    100092: hitTestTight08 1
+    100094: hitTestTight09
+    100096: hitTestTight09 1
+    100098: //RootNode
+    100100: MineralCart_00
+    100102: Object06 Merge01
+    100104: Ref_Center
+    100106: Ref_Center 1
+    100108: Ref_Center 2
+    100110: Ref_Center 3
+    100112: Ref_Center 4
+    100114: Ref_Center 5
+    100116: Ref_Origin
+    100118: Ref_Origin 1
+    100120: Ref_Origin 2
+    100122: Ref_Origin 3
+    100124: Ref_Origin 4
+    100126: Ref_Overhead
+    100128: Ref_Overhead 1
+    100130: Ref_Overhead 2
+    100132: Ref_Overhead 3
+    100134: Ref_Overhead 4
+    100136: Ref_Target
+    100138: Ref_Target 1
+    100140: Ref_Target 2
+    100142: Ref_Target 3
+    100144: Ref_Target 4
+    100146: splat
+    100148: Star2 projector01
+    100150: Star2Omni01
+    100152: Star2Omni01 1
+    100154: TornPlane39
+    100156: TornPlane42
+    100158: TornPlane44
+    100160: TornPlane62
+    100162: TornPlane65
+    100164: TornPlane66
+    100166: TornPlane90
+    100168: TornPlane93
+    400000: _M3_Anim_Data
+    400002: Bone_A_BIG
+    400004: Bone_A_BIG 1
+    400006: Bone_A_BIG17
+    400008: Bone_A_BIG18
+    400010: Bone_B_Med
+    400012: Bone_B_Med 1
+    400014: Bone_B_Med17
+    400016: Bone_B_Med18
+    400018: Bone_C_small
+    400020: Bone_C_small 1
+    400022: Bone_C_small17
+    400024: Bone_C_small18
+    400026: Bone_D_small19
+    400028: Bone_D_small19 1
+    400030: Bone_D_small27
+    400032: Bone_D_small28
+    400034: Bound Sphere001
+    400036: Bound Sphere002
+    400038: Bound Sphere003
+    400040: Bound Sphere004
+    400042: Bound Sphere005
+    400044: Bound Sphere006
+    400046: Bound Sphere007
+    400048: Bound Sphere008
+    400050: Bound Sphere009
+    400052: C13 Merge01
+    400054: C13 Merge01 1
+    400056: Crystal_Base14 Merge01
+    400058: Crystal_Base14 Merge10
+    400060: Crystals_Large03 Merge01
+    400062: Crystals_Large03 Merge05
+    400064: Crystals_Large03 Merge09
+    400066: Crystals_Large03 Merge15
+    400068: default01
+    400070: GeoSphere01
+    400072: HighYieldMineralField_0
+    400074: HighYieldMineralField_00
+    400076: HighYieldMineralField_08
+    400078: HighYieldMineralField_09
+    400080: HighYieldMineralFieldLow_00
+    400082: hitTestTight
+    400084: hitTestTight 1
+    400086: hitTestTight 2
+    400088: hitTestTight 3
+    400090: hitTestTight08
+    400092: hitTestTight08 1
+    400094: hitTestTight09
+    400096: hitTestTight09 1
+    400098: //RootNode
+    400100: MineralCart_00
+    400102: Object06 Merge01
+    400104: Ref_Center
+    400106: Ref_Center 1
+    400108: Ref_Center 2
+    400110: Ref_Center 3
+    400112: Ref_Center 4
+    400114: Ref_Center 5
+    400116: Ref_Origin
+    400118: Ref_Origin 1
+    400120: Ref_Origin 2
+    400122: Ref_Origin 3
+    400124: Ref_Origin 4
+    400126: Ref_Overhead
+    400128: Ref_Overhead 1
+    400130: Ref_Overhead 2
+    400132: Ref_Overhead 3
+    400134: Ref_Overhead 4
+    400136: Ref_Target
+    400138: Ref_Target 1
+    400140: Ref_Target 2
+    400142: Ref_Target 3
+    400144: Ref_Target 4
+    400146: splat
+    400148: Star2 projector01
+    400150: Star2Omni01
+    400152: Star2Omni01 1
+    400154: TornPlane39
+    400156: TornPlane42
+    400158: TornPlane44
+    400160: TornPlane62
+    400162: TornPlane65
+    400164: TornPlane66
+    400166: TornPlane90
+    400168: TornPlane93
+    4300000: HighYieldMineralField_0
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: HighYieldMineralField_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

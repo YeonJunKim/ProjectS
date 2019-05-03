@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 83590ef735d5da84da297ad877f51c01
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: BaseDummy
+    100004: Body1_Ribs01
+    100006: Body1_Ribs02
+    100008: Bone tread_LB
+    100010: Bone tread_LF
+    100012: Bone tread_LS
+    100014: Bone tread_RB
+    100016: Bone tread_RF
+    100018: Bone_Back_Chasie
+    100020: Bone_Barrel_L
+    100022: Bone_Barrel_L01
+    100024: Bone_Barrel_Look
+    100026: Bone_Barrel_R
+    100028: Bone_Barrel_R01
+    100030: Bone_FootR_a
+    100032: Bone_FootR_a01
+    100034: Bone_FootR_b
+    100036: Bone_FootR_b01
+    100038: Bone_Front_Chasie
+    100040: Bone_Hand
+    100042: Bone_Helper_L
+    100044: Bone_Helper_R
+    100046: Bone_Hose_L
+    100048: Bone_Hose_R
+    100050: Bone_JetsObject01
+    100052: Bone_JetsObject02
+    100054: Bone_JetsObject03
+    100056: Bone_JetsObject04
+    100058: Bone_JetsObject06
+    100060: Bone_JetsObject07
+    100062: Bone_JetsObject08
+    100064: Bone_L_BFinger
+    100066: Bone_L_TFinger
+    100068: Bone_Main
+    100070: Bone_Root
+    100072: Bone_Root 1
+    100074: Bone_RootA
+    100076: Bone_Spine
+    100078: Bone_Turret_Base
+    100080: Bone_TurretBack
+    100082: Bone_TurretSide_L
+    100084: Bone_TurretSide_R
+    100086: Bone_Wing_L
+    100088: Bone_Wing_R
+    100090: BoneArmL
+    100092: BoneArmL 1
+    100094: BoneArmR
+    100096: BoneArmR 1
+    100098: BoneCalfL
+    100100: BoneCalfL 1
+    100102: BoneCalfR
+    100104: BoneCalfR 1
+    100106: BoneDrill
+    100108: BoneFootL
+    100110: BoneFootL 1
+    100112: BoneFootR
+    100114: BoneFootR 1
+    100116: BoneForeArmL
+    100118: BoneForeArmL 1
+    100120: BoneForeArmR
+    100122: BoneForeArmR 1
+    100124: BoneHandL
+    100126: BoneHandR
+    100128: BoneHead
+    100130: BoneHipL
+    100132: BoneHipR
+    100134: BoneLegL
+    100136: BoneLegL 1
+    100138: BoneLegR
+    100140: BoneLegR 1
+    100142: BoneShoulderL
+    100144: BoneShoulderR
+    100146: BoneSpine01
+    100148: BoneSpine02
+    100150: BoneWaist
+    100152: Bound Sphere001
+    100154: Bound Sphere002
+    100156: Bound Sphere003
+    100158: Bound Sphere004
+    100160: Chest
+    100162: Cylinder01
+    100164: Cylinder05
+    100166: Cylinder09
+    100168: Cylinder12
+    100170: Cylinder15
+    100172: deadmarinemesh
+    100174: deadmarinemesh01
+    100176: Dummy Vis Tracks 1
+    100178: Dummy Vis Tracks 2
+    100180: Dummy Vis Tracks 3
+    100182: Dummy01deathvis
+    100184: Evt_Simulate
+    100186: HitTestFuzzy
+    100188: HitTestFuzzy 1
+    100190: HitTestFuzzy 2
+    100192: HitTestFuzzy 3
+    100194: HitTestFuzzy01
+    100196: HitTestFuzzy01 1
+    100198: HitTestFuzzy01 2
+    100200: HitTestFuzzy01 3
+    100202: HitTestFuzzy02
+    100204: HitTestFuzzy02 1
+    100206: HitTestFuzzy03
+    100208: HitTestFuzzy03 1
+    100210: HitTestFuzzy04
+    100212: HitTestFuzzy04 1
+    100214: HitTestFuzzy05
+    100216: HitTestFuzzy05 1
+    100218: HitTestTight
+    100220: HitTestTight 1
+    100222: HitTestTight 2
+    100224: HitTestTight 3
+    100226: Mesh01
+    100228: Mesh01 1
+    100230: Mesh02
+    100232: Mesh02 1
+    100234: Mesh02x
+    100236: Mesh02x01
+    100238: Mesh02x02
+    100240: Mesh02x03
+    100242: Mesh03
+    100244: Mesh04
+    100246: Mesh05
+    100248: Mesh07
+    100250: Mesh08
+    100252: Mesh09
+    100254: Mesh10
+    100256: Mesh11
+    100258: Mesh12
+    100260: Mesh13deadarm
+    100262: Object01
+    100264: Object04
+    100266: Object05
+    100268: Object06
+    100270: Object10
+    100272: Object14
+    100274: Object24
+    100276: Object31
+    100278: Plane01
+    100280: Plane02
+    100282: Ref_Center
+    100284: Ref_Center 1
+    100286: Ref_Center 2
+    100288: Ref_Center 3
+    100290: Ref_HardPoint
+    100292: Ref_HardPoint 1
+    100294: Ref_Head
+    100296: Ref_Head 1
+    100298: Ref_Head 2
+    100300: Ref_Head 3
+    100302: Ref_Origin
+    100304: Ref_Origin 1
+    100306: Ref_Origin 2
+    100308: Ref_Origin 3
+    100310: Ref_Overhead
+    100312: Ref_Overhead 1
+    100314: Ref_Overhead 2
+    100316: Ref_Overhead 3
+    100318: Ref_TurretZ
+    100320: Ref_TurretZ 1
+    100322: Ref_Weapon
+    100324: Ref_Weapon 1
+    100326: Root
+    100328: //RootNode
+    100330: Shield
+    100332: Shield01
+    100334: Shield02
+    100336: SiegeTank_0
+    100338: SiegeTank_1
+    100340: SiegeTank_2
+    100342: SiegeTank_3
+    100344: Sphere01
+    100346: Sphere02
+    100348: Sphere03
+    100350: Sphere04
+    100352: Star2 projector01blacksmear
+    100354: Star2Omni01
+    100356: Star2Omni02
+    100358: Star2Omni05
+    100360: Star2Omni06
+    100362: Star2Omni07
+    100364: Star2Part01blood02tails
+    100366: Star2Part01Bloodpool05
+    100368: Star2Part01debris
+    100370: Star2Part01firemain
+    100372: Star2Part01jetwalk
+    100374: Star2Part01jetwalk01
+    100376: Star2Part01sparksbounce01
+    100378: Star2Part04jetglow01
+    100380: Star2Part04jetglow02
+    100382: Star2Part05
+    100384: Star2Part08
+    100386: Star2Part29gooey
+    100388: Star2Part29gooey02
+    100390: Star2Part29gooey03anim
+    100392: Star2Part29headshot
+    100394: Star2Part29mistblood
+    100396: Star2PartSmoke
+    100398: Star2Partsmokering
+    100400: Star2Ribbon01
+    100402: Star2Ribbon02
+    100404: Torus01
+    100406: Unit_Terran_Dropship_Booster00
+    100408: Unit_Terran_Dropship_Booster01
+    100410: Unit_Terran_Dropshipx
+    100412: Vol_Target
+    100414: Vol_Target 01
+    100416: Vol_Target 01 1
+    100418: Vol_Target 01 2
+    100420: Vol_Target 01 3
+    100422: Vol_Target 02
+    100424: Vol_Target 02 1
+    100426: Vol_Target 02 2
+    100428: Vol_Target 02 3
+    100430: Vol_Target 03
+    100432: Vol_Target 03 1
+    100434: Vol_Target 03 2
+    100436: Vol_Target 03 3
+    100438: Vol_Target 04
+    100440: Vol_Target 04 1
+    100442: Vol_Target 04 2
+    100444: Vol_Target 04 3
+    100446: Vol_Target 05
+    100448: Vol_Target 05 1
+    100450: Vol_Target 06
+    100452: Vol_Target 06 1
+    100454: Vol_Target 07
+    100456: Vol_Target 07 1
+    100458: Vol_Target 1
+    100460: Vol_Target 2
+    100462: Vol_Target 3
+    400000: _M3_Anim_Data
+    400002: BaseDummy
+    400004: Body1_Ribs01
+    400006: Body1_Ribs02
+    400008: Bone tread_LB
+    400010: Bone tread_LF
+    400012: Bone tread_LS
+    400014: Bone tread_RB
+    400016: Bone tread_RF
+    400018: Bone_Back_Chasie
+    400020: Bone_Barrel_L
+    400022: Bone_Barrel_L01
+    400024: Bone_Barrel_Look
+    400026: Bone_Barrel_R
+    400028: Bone_Barrel_R01
+    400030: Bone_FootR_a
+    400032: Bone_FootR_a01
+    400034: Bone_FootR_b
+    400036: Bone_FootR_b01
+    400038: Bone_Front_Chasie
+    400040: Bone_Hand
+    400042: Bone_Helper_L
+    400044: Bone_Helper_R
+    400046: Bone_Hose_L
+    400048: Bone_Hose_R
+    400050: Bone_JetsObject01
+    400052: Bone_JetsObject02
+    400054: Bone_JetsObject03
+    400056: Bone_JetsObject04
+    400058: Bone_JetsObject06
+    400060: Bone_JetsObject07
+    400062: Bone_JetsObject08
+    400064: Bone_L_BFinger
+    400066: Bone_L_TFinger
+    400068: Bone_Main
+    400070: Bone_Root
+    400072: Bone_Root 1
+    400074: Bone_RootA
+    400076: Bone_Spine
+    400078: Bone_Turret_Base
+    400080: Bone_TurretBack
+    400082: Bone_TurretSide_L
+    400084: Bone_TurretSide_R
+    400086: Bone_Wing_L
+    400088: Bone_Wing_R
+    400090: BoneArmL
+    400092: BoneArmL 1
+    400094: BoneArmR
+    400096: BoneArmR 1
+    400098: BoneCalfL
+    400100: BoneCalfL 1
+    400102: BoneCalfR
+    400104: BoneCalfR 1
+    400106: BoneDrill
+    400108: BoneFootL
+    400110: BoneFootL 1
+    400112: BoneFootR
+    400114: BoneFootR 1
+    400116: BoneForeArmL
+    400118: BoneForeArmL 1
+    400120: BoneForeArmR
+    400122: BoneForeArmR 1
+    400124: BoneHandL
+    400126: BoneHandR
+    400128: BoneHead
+    400130: BoneHipL
+    400132: BoneHipR
+    400134: BoneLegL
+    400136: BoneLegL 1
+    400138: BoneLegR
+    400140: BoneLegR 1
+    400142: BoneShoulderL
+    400144: BoneShoulderR
+    400146: BoneSpine01
+    400148: BoneSpine02
+    400150: BoneWaist
+    400152: Bound Sphere001
+    400154: Bound Sphere002
+    400156: Bound Sphere003
+    400158: Bound Sphere004
+    400160: Chest
+    400162: Cylinder01
+    400164: Cylinder05
+    400166: Cylinder09
+    400168: Cylinder12
+    400170: Cylinder15
+    400172: deadmarinemesh
+    400174: deadmarinemesh01
+    400176: Dummy Vis Tracks 1
+    400178: Dummy Vis Tracks 2
+    400180: Dummy Vis Tracks 3
+    400182: Dummy01deathvis
+    400184: Evt_Simulate
+    400186: HitTestFuzzy
+    400188: HitTestFuzzy 1
+    400190: HitTestFuzzy 2
+    400192: HitTestFuzzy 3
+    400194: HitTestFuzzy01
+    400196: HitTestFuzzy01 1
+    400198: HitTestFuzzy01 2
+    400200: HitTestFuzzy01 3
+    400202: HitTestFuzzy02
+    400204: HitTestFuzzy02 1
+    400206: HitTestFuzzy03
+    400208: HitTestFuzzy03 1
+    400210: HitTestFuzzy04
+    400212: HitTestFuzzy04 1
+    400214: HitTestFuzzy05
+    400216: HitTestFuzzy05 1
+    400218: HitTestTight
+    400220: HitTestTight 1
+    400222: HitTestTight 2
+    400224: HitTestTight 3
+    400226: Mesh01
+    400228: Mesh01 1
+    400230: Mesh02
+    400232: Mesh02 1
+    400234: Mesh02x
+    400236: Mesh02x01
+    400238: Mesh02x02
+    400240: Mesh02x03
+    400242: Mesh03
+    400244: Mesh04
+    400246: Mesh05
+    400248: Mesh07
+    400250: Mesh08
+    400252: Mesh09
+    400254: Mesh10
+    400256: Mesh11
+    400258: Mesh12
+    400260: Mesh13deadarm
+    400262: Object01
+    400264: Object04
+    400266: Object05
+    400268: Object06
+    400270: Object10
+    400272: Object14
+    400274: Object24
+    400276: Object31
+    400278: Plane01
+    400280: Plane02
+    400282: Ref_Center
+    400284: Ref_Center 1
+    400286: Ref_Center 2
+    400288: Ref_Center 3
+    400290: Ref_HardPoint
+    400292: Ref_HardPoint 1
+    400294: Ref_Head
+    400296: Ref_Head 1
+    400298: Ref_Head 2
+    400300: Ref_Head 3
+    400302: Ref_Origin
+    400304: Ref_Origin 1
+    400306: Ref_Origin 2
+    400308: Ref_Origin 3
+    400310: Ref_Overhead
+    400312: Ref_Overhead 1
+    400314: Ref_Overhead 2
+    400316: Ref_Overhead 3
+    400318: Ref_TurretZ
+    400320: Ref_TurretZ 1
+    400322: Ref_Weapon
+    400324: Ref_Weapon 1
+    400326: Root
+    400328: //RootNode
+    400330: Shield
+    400332: Shield01
+    400334: Shield02
+    400336: SiegeTank_0
+    400338: SiegeTank_1
+    400340: SiegeTank_2
+    400342: SiegeTank_3
+    400344: Sphere01
+    400346: Sphere02
+    400348: Sphere03
+    400350: Sphere04
+    400352: Star2 projector01blacksmear
+    400354: Star2Omni01
+    400356: Star2Omni02
+    400358: Star2Omni05
+    400360: Star2Omni06
+    400362: Star2Omni07
+    400364: Star2Part01blood02tails
+    400366: Star2Part01Bloodpool05
+    400368: Star2Part01debris
+    400370: Star2Part01firemain
+    400372: Star2Part01jetwalk
+    400374: Star2Part01jetwalk01
+    400376: Star2Part01sparksbounce01
+    400378: Star2Part04jetglow01
+    400380: Star2Part04jetglow02
+    400382: Star2Part05
+    400384: Star2Part08
+    400386: Star2Part29gooey
+    400388: Star2Part29gooey02
+    400390: Star2Part29gooey03anim
+    400392: Star2Part29headshot
+    400394: Star2Part29mistblood
+    400396: Star2PartSmoke
+    400398: Star2Partsmokering
+    400400: Star2Ribbon01
+    400402: Star2Ribbon02
+    400404: Torus01
+    400406: Unit_Terran_Dropship_Booster00
+    400408: Unit_Terran_Dropship_Booster01
+    400410: Unit_Terran_Dropshipx
+    400412: Vol_Target
+    400414: Vol_Target 01
+    400416: Vol_Target 01 1
+    400418: Vol_Target 01 2
+    400420: Vol_Target 01 3
+    400422: Vol_Target 02
+    400424: Vol_Target 02 1
+    400426: Vol_Target 02 2
+    400428: Vol_Target 02 3
+    400430: Vol_Target 03
+    400432: Vol_Target 03 1
+    400434: Vol_Target 03 2
+    400436: Vol_Target 03 3
+    400438: Vol_Target 04
+    400440: Vol_Target 04 1
+    400442: Vol_Target 04 2
+    400444: Vol_Target 04 3
+    400446: Vol_Target 05
+    400448: Vol_Target 05 1
+    400450: Vol_Target 06
+    400452: Vol_Target 06 1
+    400454: Vol_Target 07
+    400456: Vol_Target 07 1
+    400458: Vol_Target 1
+    400460: Vol_Target 2
+    400462: Vol_Target 3
+    4300000: SiegeTank_0
+    4300002: SiegeTank_1
+    4300004: SiegeTank_2
+    4300006: SiegeTank_3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SiegeTank_0
+    13700002: SiegeTank_1
+    13700004: SiegeTank_2
+    13700006: SiegeTank_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

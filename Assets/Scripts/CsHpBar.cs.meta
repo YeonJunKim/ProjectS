@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 82bb8ed8105a5074096ed5c289e6b590
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hp_Empty: {fileID: 2800000, guid: 0c039f3d56126714e8b36ce2047e2cc3, type: 3}
+  - hp_Green: {fileID: 2800000, guid: d59b0b5956086b04b9cac65e5257e606, type: 3}
+  - hp_LightGreen: {fileID: 2800000, guid: 402dc9d3f53576e41a72ace3b683faf6, type: 3}
+  - hp_Yellow: {fileID: 2800000, guid: 9d423f45a5734ff4b930f625d12be48b, type: 3}
+  - hp_LightYellow: {fileID: 2800000, guid: 64dc3671e34e655438b5e78c7ef48aef, type: 3}
+  - hp_Orange: {fileID: 2800000, guid: 6f6dac849d6c51640824a2b1aec48e40, type: 3}
+  - hp_LightOrange: {fileID: 2800000, guid: 2bd0f8e3518d91c48a88c44558eac087, type: 3}
+  - hp_Red: {fileID: 2800000, guid: 82c25a19f057b674784e2c1333ef85a2, type: 3}
+  - hp_LightRed: {fileID: 2800000, guid: a7760ae6fbbcb8b4ab5bb52c562943d2, type: 3}
+  - hp_LastRoom: {fileID: 2800000, guid: f905513056a7deb418da00ca7515c0b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

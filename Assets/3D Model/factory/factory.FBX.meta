@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 9ac090672afc405499bfb4c7e462d6f3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bldg_Terran_Factory
+    100004: Bldg_Terran_Factory_Antenna
+    100006: Bldg_Terran_Factory_AntennaMount
+    100008: Bldg_Terran_Factory_BoosterL
+    100010: Bldg_Terran_Factory_BoosterR
+    100012: Bldg_Terran_Factory_Dish
+    100014: Bldg_Terran_Factory_Door_01
+    100016: Bldg_Terran_Factory_Door_02
+    100018: Bldg_Terran_Factory_Door_03
+    100020: Bldg_Terran_Factory_Flap1
+    100022: Bldg_Terran_Factory_Flap2
+    100024: Bldg_Terran_Factory_Flap3
+    100026: Bldg_Terran_Factory_Flap4
+    100028: Bldg_Terran_Factory_Frame
+    100030: Bldg_Terran_Factory_Main
+    100032: Bldg_Terran_Factory_Pump1
+    100034: Bldg_Terran_Factory_Pump2
+    100036: Bldg_Terran_Factory_Pump3
+    100038: Bldg_Terran_Factory_Vent
+    100040: Bldg_Terran_Factory~DUP~0
+    100042: Bldg_Terran_Factory~DUP~1
+    100044: Bldg_Terran_Factory~DUP~2
+    100046: Bldg_Terran_Factory~DUP~3
+    100048: Bone_Link_Object
+    100050: boosters factory
+    100052: Bound Sphere001
+    100054: Dummy01
+    100056: //RootNode
+    100058: Factory_0
+    100060: Factory_1
+    100062: Factory_2
+    100064: HitTestFuzzy
+    100066: HitTestFuzzy 1
+    100068: HitTestFuzzy01
+    100070: HitTestFuzzy01 1
+    100072: HitTestTight
+    100074: HitTestTight 1
+    100076: Plane01
+    100078: Ref_Center
+    100080: Ref_Center 1
+    100082: Ref_Damage
+    100084: Ref_Damage 01
+    100086: Ref_Damage 01 1
+    100088: Ref_Damage 02
+    100090: Ref_Damage 02 1
+    100092: Ref_Damage 03
+    100094: Ref_Damage 03 1
+    100096: Ref_Damage 04
+    100098: Ref_Damage 04 1
+    100100: Ref_Damage 05
+    100102: Ref_Damage 05 1
+    100104: Ref_Damage 06
+    100106: Ref_Damage 06 1
+    100108: Ref_Damage 07
+    100110: Ref_Damage 07 1
+    100112: Ref_Damage 08
+    100114: Ref_Damage 08 1
+    100116: Ref_Damage 09
+    100118: Ref_Damage 09 1
+    100120: Ref_Damage 1
+    100122: Ref_Damage 10
+    100124: Ref_Damage 10 1
+    100126: Ref_Origin
+    100128: Ref_Origin 1
+    100130: Ref_Overhead
+    100132: Ref_Overhead 1
+    100134: Sphere01distortion02
+    100136: Star2_Part_Work
+    100138: Star2Omni01
+    100140: Star2Omni01 1
+    100142: Star2Omni01x
+    100144: Star2Omni01x 1
+    100146: Star2Omni02
+    100148: Star2Omni02 1
+    100150: Star2Omni02x
+    100152: Star2Omni02x 1
+    100154: Star2Omni03
+    100156: Star2Omni03 1
+    100158: Star2Omni04
+    100160: Star2Omni04 1
+    100162: Star2Omni04x
+    100164: Star2Omni04x 1
+    100166: Star2Omni04x01
+    100168: Star2Omni04x01 1
+    100170: Star2Omni05
+    100172: Star2Omni05 1
+    100174: Star2Omni06
+    100176: Star2Omni06 1
+    100178: Star2Omni07
+    100180: Star2Omni07 1
+    100182: Star2Part01
+    100184: Star2Part01 1
+    100186: Star2Part01exhaust
+    100188: Star2Part01exhaust 1
+    100190: Star2Part01jetfire04
+    100192: Star2Part01jetfire04 1
+    100194: Star2Part01jetfire05
+    100196: Star2Part01jetfire05 1
+    100198: Star2Part01jetfire06
+    100200: Star2Part01jetfire06 1
+    100202: Star2Part03jet04
+    100204: Star2Part03jet04 1
+    100206: Star2Part03jet05
+    100208: Star2Part03jet05 1
+    100210: Star2Part03jet06
+    100212: Star2Part03jet06 1
+    100214: Star2Part03jet06smoke03
+    100216: Star2Part03jet06smoke03 1
+    100218: Star2Part03jet06smoke04
+    100220: Star2Part03jet06smoke04 1
+    100222: Star2Part03jet06smoke05
+    100224: Star2Part03jet06smoke05 1
+    100226: Star2Part03jet06sparks03
+    100228: Star2Part03jet06sparks03 1
+    100230: Star2Part03jet06sparks04
+    100232: Star2Part03jet06sparks04 1
+    100234: Star2Part03jet06sparks05
+    100236: Star2Part03jet06sparks05 1
+    100238: Star2Part03jet07
+    100240: Star2Part03jet07 1
+    100242: Star2Part03liftoffdebris2
+    100244: Star2Part03liftoffdebris2 1
+    100246: Star2Part04jetglow04
+    100248: Star2Part04jetglow04 1
+    100250: Star2Part04jetglow05
+    100252: Star2Part04jetglow05 1
+    100254: Star2Part04jetglow06
+    100256: Star2Part04jetglow06 1
+    100258: Star2Part05lioghtflash
+    100260: Star2Part05lioghtflash 1
+    100262: Star2Part05lioghtflash01
+    100264: Star2Part05lioghtflash01 1
+    100266: Star2Part31big smoke
+    100268: Star2Part31big smoke 1
+    100270: Vol_Target
+    100272: Vol_Target 01
+    100274: Vol_Target 01 1
+    100276: Vol_Target 02
+    100278: Vol_Target 02 1
+    100280: Vol_Target 03
+    100282: Vol_Target 03 1
+    100284: Vol_Target 04
+    100286: Vol_Target 04 1
+    100288: Vol_Target 05
+    100290: Vol_Target 05 1
+    100292: Vol_Target 06
+    100294: Vol_Target 06 1
+    100296: Vol_Target 07
+    100298: Vol_Target 07 1
+    100300: Vol_Target 1
+    400000: _M3_Anim_Data
+    400002: Bldg_Terran_Factory
+    400004: Bldg_Terran_Factory_Antenna
+    400006: Bldg_Terran_Factory_AntennaMount
+    400008: Bldg_Terran_Factory_BoosterL
+    400010: Bldg_Terran_Factory_BoosterR
+    400012: Bldg_Terran_Factory_Dish
+    400014: Bldg_Terran_Factory_Door_01
+    400016: Bldg_Terran_Factory_Door_02
+    400018: Bldg_Terran_Factory_Door_03
+    400020: Bldg_Terran_Factory_Flap1
+    400022: Bldg_Terran_Factory_Flap2
+    400024: Bldg_Terran_Factory_Flap3
+    400026: Bldg_Terran_Factory_Flap4
+    400028: Bldg_Terran_Factory_Frame
+    400030: Bldg_Terran_Factory_Main
+    400032: Bldg_Terran_Factory_Pump1
+    400034: Bldg_Terran_Factory_Pump2
+    400036: Bldg_Terran_Factory_Pump3
+    400038: Bldg_Terran_Factory_Vent
+    400040: Bldg_Terran_Factory~DUP~0
+    400042: Bldg_Terran_Factory~DUP~1
+    400044: Bldg_Terran_Factory~DUP~2
+    400046: Bldg_Terran_Factory~DUP~3
+    400048: Bone_Link_Object
+    400050: boosters factory
+    400052: Bound Sphere001
+    400054: Dummy01
+    400056: //RootNode
+    400058: Factory_0
+    400060: Factory_1
+    400062: Factory_2
+    400064: HitTestFuzzy
+    400066: HitTestFuzzy 1
+    400068: HitTestFuzzy01
+    400070: HitTestFuzzy01 1
+    400072: HitTestTight
+    400074: HitTestTight 1
+    400076: Plane01
+    400078: Ref_Center
+    400080: Ref_Center 1
+    400082: Ref_Damage
+    400084: Ref_Damage 01
+    400086: Ref_Damage 01 1
+    400088: Ref_Damage 02
+    400090: Ref_Damage 02 1
+    400092: Ref_Damage 03
+    400094: Ref_Damage 03 1
+    400096: Ref_Damage 04
+    400098: Ref_Damage 04 1
+    400100: Ref_Damage 05
+    400102: Ref_Damage 05 1
+    400104: Ref_Damage 06
+    400106: Ref_Damage 06 1
+    400108: Ref_Damage 07
+    400110: Ref_Damage 07 1
+    400112: Ref_Damage 08
+    400114: Ref_Damage 08 1
+    400116: Ref_Damage 09
+    400118: Ref_Damage 09 1
+    400120: Ref_Damage 1
+    400122: Ref_Damage 10
+    400124: Ref_Damage 10 1
+    400126: Ref_Origin
+    400128: Ref_Origin 1
+    400130: Ref_Overhead
+    400132: Ref_Overhead 1
+    400134: Sphere01distortion02
+    400136: Star2_Part_Work
+    400138: Star2Omni01
+    400140: Star2Omni01 1
+    400142: Star2Omni01x
+    400144: Star2Omni01x 1
+    400146: Star2Omni02
+    400148: Star2Omni02 1
+    400150: Star2Omni02x
+    400152: Star2Omni02x 1
+    400154: Star2Omni03
+    400156: Star2Omni03 1
+    400158: Star2Omni04
+    400160: Star2Omni04 1
+    400162: Star2Omni04x
+    400164: Star2Omni04x 1
+    400166: Star2Omni04x01
+    400168: Star2Omni04x01 1
+    400170: Star2Omni05
+    400172: Star2Omni05 1
+    400174: Star2Omni06
+    400176: Star2Omni06 1
+    400178: Star2Omni07
+    400180: Star2Omni07 1
+    400182: Star2Part01
+    400184: Star2Part01 1
+    400186: Star2Part01exhaust
+    400188: Star2Part01exhaust 1
+    400190: Star2Part01jetfire04
+    400192: Star2Part01jetfire04 1
+    400194: Star2Part01jetfire05
+    400196: Star2Part01jetfire05 1
+    400198: Star2Part01jetfire06
+    400200: Star2Part01jetfire06 1
+    400202: Star2Part03jet04
+    400204: Star2Part03jet04 1
+    400206: Star2Part03jet05
+    400208: Star2Part03jet05 1
+    400210: Star2Part03jet06
+    400212: Star2Part03jet06 1
+    400214: Star2Part03jet06smoke03
+    400216: Star2Part03jet06smoke03 1
+    400218: Star2Part03jet06smoke04
+    400220: Star2Part03jet06smoke04 1
+    400222: Star2Part03jet06smoke05
+    400224: Star2Part03jet06smoke05 1
+    400226: Star2Part03jet06sparks03
+    400228: Star2Part03jet06sparks03 1
+    400230: Star2Part03jet06sparks04
+    400232: Star2Part03jet06sparks04 1
+    400234: Star2Part03jet06sparks05
+    400236: Star2Part03jet06sparks05 1
+    400238: Star2Part03jet07
+    400240: Star2Part03jet07 1
+    400242: Star2Part03liftoffdebris2
+    400244: Star2Part03liftoffdebris2 1
+    400246: Star2Part04jetglow04
+    400248: Star2Part04jetglow04 1
+    400250: Star2Part04jetglow05
+    400252: Star2Part04jetglow05 1
+    400254: Star2Part04jetglow06
+    400256: Star2Part04jetglow06 1
+    400258: Star2Part05lioghtflash
+    400260: Star2Part05lioghtflash 1
+    400262: Star2Part05lioghtflash01
+    400264: Star2Part05lioghtflash01 1
+    400266: Star2Part31big smoke
+    400268: Star2Part31big smoke 1
+    400270: Vol_Target
+    400272: Vol_Target 01
+    400274: Vol_Target 01 1
+    400276: Vol_Target 02
+    400278: Vol_Target 02 1
+    400280: Vol_Target 03
+    400282: Vol_Target 03 1
+    400284: Vol_Target 04
+    400286: Vol_Target 04 1
+    400288: Vol_Target 05
+    400290: Vol_Target 05 1
+    400292: Vol_Target 06
+    400294: Vol_Target 06 1
+    400296: Vol_Target 07
+    400298: Vol_Target 07 1
+    400300: Vol_Target 1
+    4300000: Factory_0
+    4300002: Factory_1
+    4300004: Factory_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Factory_0
+    13700002: Factory_1
+    13700004: Factory_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .699999988
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

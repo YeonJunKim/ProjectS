@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5569ef8cd31b2724880f8c857a29e8f6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mousePoint_Move: {fileID: 100010, guid: 5e2ba452a9f0dff41ae7c00ebd5c354e, type: 2}
+  - mousePoint_Attack: {fileID: 100010, guid: ed2662f334720f146836f093485c8a94, type: 2}
+  - minImage: {fileID: 2800000, guid: cbdb7e43e576cc746b17391825a0b17d, type: 3}
+  - gasImage: {fileID: 2800000, guid: 5e089c1ef5c3f1c459330a469efa878a, type: 3}
+  - supplyImage: {fileID: 2800000, guid: 6976a08433f123340aa657d2127b431d, type: 3}
+  - dragHighlight: {fileID: 2800000, guid: ab892c2129ceff9479058cb1abfa0fd5, type: 3}
+  - docImage: {fileID: 2800000, guid: cf045e5b5a93a1745bc099b6ab03ee25, type: 3}
+  - gameObjectOnCursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

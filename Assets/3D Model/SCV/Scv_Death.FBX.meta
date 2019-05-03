@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: a50f3084cfdaf164d8a384f06f924f13
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Body1_Ribs01
+    100004: Body1_Ribs02
+    100006: Bone_Hand
+    100008: Bone_JetsObject01
+    100010: Bone_JetsObject02
+    100012: Bone_JetsObject03
+    100014: Bone_JetsObject04
+    100016: Bone_JetsObject06
+    100018: Bone_JetsObject07
+    100020: Bone_JetsObject08
+    100022: Bone_L_BFinger
+    100024: Bone_L_TFinger
+    100026: Bone_Root
+    100028: Bone_Spine
+    100030: BoneArmL
+    100032: BoneArmL 1
+    100034: BoneArmR
+    100036: BoneArmR 1
+    100038: BoneCalfL
+    100040: BoneCalfL 1
+    100042: BoneCalfR
+    100044: BoneCalfR 1
+    100046: BoneDrill
+    100048: BoneFootL
+    100050: BoneFootL 1
+    100052: BoneFootR
+    100054: BoneFootR 1
+    100056: BoneForeArmL
+    100058: BoneForeArmL 1
+    100060: BoneForeArmR
+    100062: BoneForeArmR 1
+    100064: BoneHandL
+    100066: BoneHandR
+    100068: BoneHead
+    100070: BoneHipL
+    100072: BoneHipR
+    100074: BoneLegL
+    100076: BoneLegL 1
+    100078: BoneLegR
+    100080: BoneLegR 1
+    100082: BoneShoulderL
+    100084: BoneShoulderR
+    100086: BoneSpine01
+    100088: BoneSpine02
+    100090: BoneWaist
+    100092: Bound Sphere001
+    100094: Bound Sphere002
+    100096: Bound Sphere003
+    100098: Chest
+    100100: Cylinder01
+    100102: Cylinder05
+    100104: Cylinder09
+    100106: Cylinder12
+    100108: Cylinder15
+    100110: deadmarinemesh
+    100112: deadmarinemesh01
+    100114: Dummy Vis Tracks 1
+    100116: Dummy Vis Tracks 2
+    100118: Dummy Vis Tracks 3
+    100120: Dummy01deathvis
+    100122: Evt_Simulate
+    100124: HitTestFuzzy
+    100126: HitTestFuzzy 1
+    100128: HitTestFuzzy01
+    100130: HitTestFuzzy01 1
+    100132: HitTestTight
+    100134: HitTestTight 1
+    100136: Mesh01
+    100138: Mesh01 1
+    100140: Mesh02
+    100142: Mesh02 1
+    100144: Mesh02x
+    100146: Mesh02x01
+    100148: Mesh02x02
+    100150: Mesh02x03
+    100152: Mesh03
+    100154: Mesh04
+    100156: Mesh05
+    100158: Mesh07
+    100160: Mesh08
+    100162: Mesh09
+    100164: Mesh10
+    100166: Mesh11
+    100168: Mesh12
+    100170: Mesh13deadarm
+    100172: Object01
+    100174: Object04
+    100176: Object05
+    100178: Object06
+    100180: Object10
+    100182: Plane01
+    100184: Plane02
+    100186: Ref_Center
+    100188: Ref_Center 1
+    100190: Ref_Head
+    100192: Ref_Head 1
+    100194: Ref_Origin
+    100196: Ref_Origin 1
+    100198: Ref_Overhead
+    100200: Ref_Overhead 1
+    100202: Root
+    100204: //RootNode
+    100206: SCVDeath_0
+    100208: SCVDeath_1
+    100210: Shield
+    100212: Shield01
+    100214: Shield02
+    100216: Sphere01
+    100218: Sphere02
+    100220: Sphere03
+    100222: Sphere04
+    100224: Star2 projector01blacksmear
+    100226: Star2Omni01
+    100228: Star2Omni01 1
+    100230: Star2Omni02
+    100232: Star2Omni05
+    100234: Star2Omni06
+    100236: Star2Omni07
+    100238: Star2Part01blood02tails
+    100240: Star2Part01Bloodpool05
+    100242: Star2Part01debris
+    100244: Star2Part01debris 1
+    100246: Star2Part01firemain
+    100248: Star2Part01firemain 1
+    100250: Star2Part01jetwalk
+    100252: Star2Part01jetwalk01
+    100254: Star2Part01sparksbounce01
+    100256: Star2Part01sparksbounce01 1
+    100258: Star2Part04jetglow01
+    100260: Star2Part04jetglow02
+    100262: Star2Part05
+    100264: Star2Part08
+    100266: Star2Part29gooey
+    100268: Star2Part29gooey02
+    100270: Star2Part29gooey03anim
+    100272: Star2Part29headshot
+    100274: Star2Part29mistblood
+    100276: Star2PartSmoke
+    100278: Star2PartSmoke 1
+    100280: Star2Partsmokering
+    100282: Star2Partsmokering 1
+    100284: Star2Ribbon01
+    100286: Star2Ribbon02
+    100288: Torus01
+    100290: Unit_Terran_Dropship_Booster00
+    100292: Unit_Terran_Dropship_Booster01
+    100294: Unit_Terran_Dropshipx
+    100296: Vol_Target
+    100298: Vol_Target 01
+    100300: Vol_Target 01 1
+    100302: Vol_Target 02
+    100304: Vol_Target 02 1
+    100306: Vol_Target 03
+    100308: Vol_Target 03 1
+    100310: Vol_Target 04
+    100312: Vol_Target 04 1
+    100314: Vol_Target 1
+    400000: _M3_Anim_Data
+    400002: Body1_Ribs01
+    400004: Body1_Ribs02
+    400006: Bone_Hand
+    400008: Bone_JetsObject01
+    400010: Bone_JetsObject02
+    400012: Bone_JetsObject03
+    400014: Bone_JetsObject04
+    400016: Bone_JetsObject06
+    400018: Bone_JetsObject07
+    400020: Bone_JetsObject08
+    400022: Bone_L_BFinger
+    400024: Bone_L_TFinger
+    400026: Bone_Root
+    400028: Bone_Spine
+    400030: BoneArmL
+    400032: BoneArmL 1
+    400034: BoneArmR
+    400036: BoneArmR 1
+    400038: BoneCalfL
+    400040: BoneCalfL 1
+    400042: BoneCalfR
+    400044: BoneCalfR 1
+    400046: BoneDrill
+    400048: BoneFootL
+    400050: BoneFootL 1
+    400052: BoneFootR
+    400054: BoneFootR 1
+    400056: BoneForeArmL
+    400058: BoneForeArmL 1
+    400060: BoneForeArmR
+    400062: BoneForeArmR 1
+    400064: BoneHandL
+    400066: BoneHandR
+    400068: BoneHead
+    400070: BoneHipL
+    400072: BoneHipR
+    400074: BoneLegL
+    400076: BoneLegL 1
+    400078: BoneLegR
+    400080: BoneLegR 1
+    400082: BoneShoulderL
+    400084: BoneShoulderR
+    400086: BoneSpine01
+    400088: BoneSpine02
+    400090: BoneWaist
+    400092: Bound Sphere001
+    400094: Bound Sphere002
+    400096: Bound Sphere003
+    400098: Chest
+    400100: Cylinder01
+    400102: Cylinder05
+    400104: Cylinder09
+    400106: Cylinder12
+    400108: Cylinder15
+    400110: deadmarinemesh
+    400112: deadmarinemesh01
+    400114: Dummy Vis Tracks 1
+    400116: Dummy Vis Tracks 2
+    400118: Dummy Vis Tracks 3
+    400120: Dummy01deathvis
+    400122: Evt_Simulate
+    400124: HitTestFuzzy
+    400126: HitTestFuzzy 1
+    400128: HitTestFuzzy01
+    400130: HitTestFuzzy01 1
+    400132: HitTestTight
+    400134: HitTestTight 1
+    400136: Mesh01
+    400138: Mesh01 1
+    400140: Mesh02
+    400142: Mesh02 1
+    400144: Mesh02x
+    400146: Mesh02x01
+    400148: Mesh02x02
+    400150: Mesh02x03
+    400152: Mesh03
+    400154: Mesh04
+    400156: Mesh05
+    400158: Mesh07
+    400160: Mesh08
+    400162: Mesh09
+    400164: Mesh10
+    400166: Mesh11
+    400168: Mesh12
+    400170: Mesh13deadarm
+    400172: Object01
+    400174: Object04
+    400176: Object05
+    400178: Object06
+    400180: Object10
+    400182: Plane01
+    400184: Plane02
+    400186: Ref_Center
+    400188: Ref_Center 1
+    400190: Ref_Head
+    400192: Ref_Head 1
+    400194: Ref_Origin
+    400196: Ref_Origin 1
+    400198: Ref_Overhead
+    400200: Ref_Overhead 1
+    400202: Root
+    400204: //RootNode
+    400206: SCVDeath_0
+    400208: SCVDeath_1
+    400210: Shield
+    400212: Shield01
+    400214: Shield02
+    400216: Sphere01
+    400218: Sphere02
+    400220: Sphere03
+    400222: Sphere04
+    400224: Star2 projector01blacksmear
+    400226: Star2Omni01
+    400228: Star2Omni01 1
+    400230: Star2Omni02
+    400232: Star2Omni05
+    400234: Star2Omni06
+    400236: Star2Omni07
+    400238: Star2Part01blood02tails
+    400240: Star2Part01Bloodpool05
+    400242: Star2Part01debris
+    400244: Star2Part01debris 1
+    400246: Star2Part01firemain
+    400248: Star2Part01firemain 1
+    400250: Star2Part01jetwalk
+    400252: Star2Part01jetwalk01
+    400254: Star2Part01sparksbounce01
+    400256: Star2Part01sparksbounce01 1
+    400258: Star2Part04jetglow01
+    400260: Star2Part04jetglow02
+    400262: Star2Part05
+    400264: Star2Part08
+    400266: Star2Part29gooey
+    400268: Star2Part29gooey02
+    400270: Star2Part29gooey03anim
+    400272: Star2Part29headshot
+    400274: Star2Part29mistblood
+    400276: Star2PartSmoke
+    400278: Star2PartSmoke 1
+    400280: Star2Partsmokering
+    400282: Star2Partsmokering 1
+    400284: Star2Ribbon01
+    400286: Star2Ribbon02
+    400288: Torus01
+    400290: Unit_Terran_Dropship_Booster00
+    400292: Unit_Terran_Dropship_Booster01
+    400294: Unit_Terran_Dropshipx
+    400296: Vol_Target
+    400298: Vol_Target 01
+    400300: Vol_Target 01 1
+    400302: Vol_Target 02
+    400304: Vol_Target 02 1
+    400306: Vol_Target 03
+    400308: Vol_Target 03 1
+    400310: Vol_Target 04
+    400312: Vol_Target 04 1
+    400314: Vol_Target 1
+    4300000: SCVDeath_0
+    4300002: SCVDeath_1
+    7400000: Scv_Death
+    9500000: //RootNode
+    13700000: SCVDeath_0
+    13700002: SCVDeath_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scv_Death
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject01/Bone_JetsObject06
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject01/Bone_JetsObject07
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject08
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject08/Bone_JetsObject02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject08/Bone_JetsObject03
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_JetsObject08/Bone_JetsObject04
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmL
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmL/BoneForeArmL
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmL/BoneForeArmL/Bone_Hand
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmL/BoneForeArmL/Bone_Hand/Bone_L_BFinger
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmL/BoneForeArmL/Bone_Hand/Bone_L_TFinger
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmR
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmR/BoneForeArmR
+        weight: 1
+      - path: Bone_Root/Bone_Spine/BoneArmR/BoneForeArmR/BoneDrill
+        weight: 1
+      - path: Bone_Root/BoneLegL
+        weight: 1
+      - path: Bone_Root/BoneLegL/BoneCalfL
+        weight: 1
+      - path: Bone_Root/BoneLegL/BoneCalfL/BoneFootL
+        weight: 1
+      - path: Bone_Root/BoneLegR
+        weight: 1
+      - path: Bone_Root/BoneLegR/BoneCalfR
+        weight: 1
+      - path: Bone_Root/BoneLegR/BoneCalfR/BoneFootR
+        weight: 1
+      - path: Bound Sphere001
+        weight: 1
+      - path: Bound Sphere002
+        weight: 1
+      - path: Bound Sphere003
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Dummy Vis Tracks 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneHead
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderL
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+          1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+          1/BoneForeArmL 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderL/BoneArmL
+          1/BoneForeArmL 1/BoneHandL
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderL/Shield
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderR
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+          1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+          1/BoneForeArmR 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneSpine01/BoneSpine02/BoneShoulderR/BoneArmR
+          1/BoneForeArmR 1/BoneHandR
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipL
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipL/BoneLegL 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipL/BoneLegL 1/BoneCalfL 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipL/BoneLegL 1/BoneCalfL 1/BoneFootL
+          1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipR
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipR/BoneLegR 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipR/BoneLegR 1/BoneCalfR 1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Root/BoneWaist/BoneHipR/BoneLegR 1/BoneCalfR 1/BoneFootR
+          1
+        weight: 1
+      - path: Dummy Vis Tracks 1/Shield02
+        weight: 1
+      - path: Dummy Vis Tracks 2
+        weight: 1
+      - path: Dummy Vis Tracks 2/Body1_Ribs01
+        weight: 1
+      - path: Dummy Vis Tracks 2/deadmarinemesh
+        weight: 1
+      - path: Dummy Vis Tracks 2/deadmarinemesh/Object04
+        weight: 1
+      - path: Dummy Vis Tracks 2/Mesh01
+        weight: 1
+      - path: Dummy Vis Tracks 2/Mesh02
+        weight: 1
+      - path: Dummy Vis Tracks 2/Mesh03
+        weight: 1
+      - path: Dummy Vis Tracks 2/Mesh04
+        weight: 1
+      - path: Dummy Vis Tracks 2/Mesh05
+        weight: 1
+      - path: Dummy Vis Tracks 2/Sphere01
+        weight: 1
+      - path: Dummy Vis Tracks 2/Sphere02
+        weight: 1
+      - path: Dummy Vis Tracks 3
+        weight: 1
+      - path: Dummy Vis Tracks 3/Body1_Ribs02
+        weight: 1
+      - path: Dummy Vis Tracks 3/deadmarinemesh01
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh07
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh07/Mesh08
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh07/Star2Part29gooey02
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh09
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh10
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh11
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh12
+        weight: 1
+      - path: Dummy Vis Tracks 3/Mesh13deadarm
+        weight: 1
+      - path: Dummy Vis Tracks 3/Shield01
+        weight: 1
+      - path: Dummy Vis Tracks 3/Sphere03
+        weight: 1
+      - path: Dummy Vis Tracks 3/Sphere04
+        weight: 1
+      - path: Dummy01deathvis
+        weight: 1
+      - path: Dummy01deathvis/Cylinder01
+        weight: 1
+      - path: Dummy01deathvis/Mesh01 1
+        weight: 1
+      - path: Dummy01deathvis/Mesh02 1
+        weight: 1
+      - path: Dummy01deathvis/Object01
+        weight: 1
+      - path: Dummy01deathvis/Object05
+        weight: 1
+      - path: Dummy01deathvis/Object06
+        weight: 1
+      - path: Dummy01deathvis/Object10
+        weight: 1
+      - path: Evt_Simulate
+        weight: 1
+      - path: HitTestFuzzy01
+        weight: 1
+      - path: HitTestFuzzy01/HitTestFuzzy01 1
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Origin/Ref_Origin 1
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Overhead/Ref_Overhead 1
+        weight: 1
+      - path: SCVDeath_0
+        weight: 1
+      - path: SCVDeath_1
+        weight: 1
+      - path: Star2 projector01blacksmear
+        weight: 1
+      - path: Star2Omni01
+        weight: 1
+      - path: Star2Omni01/Star2Omni01 1
+        weight: 1
+      - path: Star2Part01blood02tails
+        weight: 1
+      - path: Star2Part01Bloodpool05
+        weight: 1
+      - path: Star2Part01debris
+        weight: 1
+      - path: Star2Part01debris/Star2Part01debris 1
+        weight: 1
+      - path: Star2Part01firemain
+        weight: 1
+      - path: Star2Part01firemain/Star2Part01firemain 1
+        weight: 1
+      - path: Star2Part01sparksbounce01
+        weight: 1
+      - path: Star2Part01sparksbounce01/Star2Part01sparksbounce01 1
+        weight: 1
+      - path: Star2Part05
+        weight: 1
+      - path: Star2Part08
+        weight: 1
+      - path: Star2Part29gooey
+        weight: 1
+      - path: Star2Part29gooey03anim
+        weight: 1
+      - path: Star2Part29headshot
+        weight: 1
+      - path: Star2Part29mistblood
+        weight: 1
+      - path: Star2PartSmoke
+        weight: 1
+      - path: Star2PartSmoke/Star2PartSmoke 1
+        weight: 1
+      - path: Star2Partsmokering
+        weight: 1
+      - path: Star2Partsmokering/Star2Partsmokering 1
+        weight: 1
+      - path: Torus01
+        weight: 1
+      - path: Unit_Terran_Dropshipx
+        weight: 1
+      - path: Unit_Terran_Dropshipx/HitTestFuzzy
+        weight: 1
+      - path: Unit_Terran_Dropshipx/HitTestFuzzy/HitTestFuzzy 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/HitTestTight
+        weight: 1
+      - path: Unit_Terran_Dropshipx/HitTestTight/HitTestTight 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x/Cylinder05
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x01/Cylinder09
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x02/Cylinder12
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x03
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Mesh02x03/Cylinder15
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Ref_Center
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Ref_Center/Ref_Center 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Ref_Head
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Ref_Head/Ref_Head 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Star2Omni06
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Star2Omni07
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Star2Ribbon01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Star2Ribbon02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Plane01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Star2Omni05
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Star2Part01jetwalk
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Star2Part04jetglow02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Vol_Target 03
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster00/Vol_Target 03/Vol_Target
+          03 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Plane02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Star2Omni02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Star2Part01jetwalk01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Star2Part04jetglow01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Vol_Target 04
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Unit_Terran_Dropship_Booster01/Vol_Target 04/Vol_Target
+          04 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target/Vol_Target 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target 01
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target 01/Vol_Target 01 1
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target 02
+        weight: 1
+      - path: Unit_Terran_Dropshipx/Vol_Target 02/Vol_Target 02 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
