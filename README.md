@@ -50,4 +50,4 @@
 개발기간은 약 5주정도 소요되었습니다
 <br /><br /><br />
 **플레이영상**은 여기서 보실 수 있습니다  
-https://www.youtube.com/watch?v=GST3hLrHQT0
+https://youtu.be/GST3hLrHQT0
